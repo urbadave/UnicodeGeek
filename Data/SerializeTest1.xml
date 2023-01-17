@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<ucd>
+   <cjk-radicals>
+      <cjk-radical number="1" radical="2F00" ideograph="4E00"/>
+      <cjk-radical number="2" radical="2F01" ideograph="4E28"/>
+      <cjk-radical number="3" radical="2F02" ideograph="4E36"/>
+      <cjk-radical number="4" radical="2F03" ideograph="4E3F"/>
+      <cjk-radical number="5" radical="2F04" ideograph="4E59"/>
+      <cjk-radical number="6" radical="2F05" ideograph="4E85"/>
+      <cjk-radical number="7" radical="2F06" ideograph="4E8C"/>
+      <cjk-radical number="8" radical="2F07" ideograph="4EA0"/>
+      <cjk-radical number="9" radical="2F08" ideograph="4EBA"/>
+      <cjk-radical number="10" radical="2F09" ideograph="513F"/>
+      <cjk-radical number="11" radical="2F0A" ideograph="5165"/>
+      <cjk-radical number="12" radical="2F0B" ideograph="516B"/>
+      <cjk-radical number="13" radical="2F0C" ideograph="5182"/>
+      <cjk-radical number="14" radical="2F0D" ideograph="5196"/>
+      <cjk-radical number="15" radical="2F0E" ideograph="51AB"/>
+      <cjk-radical number="16" radical="2F0F" ideograph="51E0"/>
+      <cjk-radical number="17" radical="2F10" ideograph="51F5"/>
+      <cjk-radical number="18" radical="2F11" ideograph="5200"/>
+      <cjk-radical number="19" radical="2F12" ideograph="529B"/>
+      <cjk-radical number="20" radical="2F13" ideograph="52F9"/>
+      <cjk-radical number="21" radical="2F14" ideograph="5315"/>
+      <cjk-radical number="22" radical="2F15" ideograph="531A"/>
+      <cjk-radical number="23" radical="2F16" ideograph="5338"/>
+      <cjk-radical number="24" radical="2F17" ideograph="5341"/>
+      <cjk-radical number="25" radical="2F18" ideograph="535C"/>
+      <cjk-radical number="26" radical="2F19" ideograph="5369"/>
+      <cjk-radical number="27" radical="2F1A" ideograph="5382"/>
+      <cjk-radical number="28" radical="2F1B" ideograph="53B6"/>
+      <cjk-radical number="29" radical="2F1C" ideograph="53C8"/>
+      <cjk-radical number="30" radical="2F1D" ideograph="53E3"/>
+      <cjk-radical number="31" radical="2F1E" ideograph="56D7"/>
+      <cjk-radical number="32" radical="2F1F" ideograph="571F"/>
+      <cjk-radical number="33" radical="2F20" ideograph="58EB"/>
+      <cjk-radical number="34" radical="2F21" ideograph="5902"/>
+      <cjk-radical number="35" radical="2F22" ideograph="590A"/>
+      <cjk-radical number="36" radical="2F23" ideograph="5915"/>
+      <cjk-radical number="37" radical="2F24" ideograph="5927"/>
+      <cjk-radical number="38" radical="2F25" ideograph="5973"/>
+      <cjk-radical number="39" radical="2F26" ideograph="5B50"/>
+      <cjk-radical number="40" radical="2F27" ideograph="5B80"/>
+      <cjk-radical number="41" radical="2F28" ideograph="5BF8"/>
+      <cjk-radical number="42" radical="2F29" ideograph="5C0F"/>
+      <cjk-radical number="43" radical="2F2A" ideograph="5C22"/>
+      <cjk-radical number="44" radical="2F2B" ideograph="5C38"/>
+      <cjk-radical number="45" radical="2F2C" ideograph="5C6E"/>
+      <cjk-radical number="46" radical="2F2D" ideograph="5C71"/>
+      <cjk-radical number="47" radical="2F2E" ideograph="5DDB"/>
+      <cjk-radical number="48" radical="2F2F" ideograph="5DE5"/>
+      <cjk-radical number="49" radical="2F30" ideograph="5DF1"/>
+      <cjk-radical number="50" radical="2F31" ideograph="5DFE"/>
+      <cjk-radical number="51" radical="2F32" ideograph="5E72"/>
+      <cjk-radical number="52" radical="2F33" ideograph="5E7A"/>
+      <cjk-radical number="53" radical="2F34" ideograph="5E7F"/>
+      <cjk-radical number="54" radical="2F35" ideograph="5EF4"/>
+      <cjk-radical number="55" radical="2F36" ideograph="5EFE"/>
+      <cjk-radical number="56" radical="2F37" ideograph="5F0B"/>
+      <cjk-radical number="57" radical="2F38" ideograph="5F13"/>
+      <cjk-radical number="58" radical="2F39" ideograph="5F50"/>
+      <cjk-radical number="59" radical="2F3A" ideograph="5F61"/>
+      <cjk-radical number="60" radical="2F3B" ideograph="5F73"/>
+      <cjk-radical number="61" radical="2F3C" ideograph="5FC3"/>
+      <cjk-radical number="62" radical="2F3D" ideograph="6208"/>
+      <cjk-radical number="63" radical="2F3E" ideograph="6236"/>
+      <cjk-radical number="64" radical="2F3F" ideograph="624B"/>
+      <cjk-radical number="65" radical="2F40" ideograph="652F"/>
+      <cjk-radical number="66" radical="2F41" ideograph="6534"/>
+      <cjk-radical number="67" radical="2F42" ideograph="6587"/>
+      <cjk-radical number="68" radical="2F43" ideograph="6597"/>
+      <cjk-radical number="69" radical="2F44" ideograph="65A4"/>
+      <cjk-radical number="70" radical="2F45" ideograph="65B9"/>
+      <cjk-radical number="71" radical="2F46" ideograph="65E0"/>
+      <cjk-radical number="72" radical="2F47" ideograph="65E5"/>
+      <cjk-radical number="73" radical="2F48" ideograph="66F0"/>
+      <cjk-radical number="74" radical="2F49" ideograph="6708"/>
+      <cjk-radical number="75" radical="2F4A" ideograph="6728"/>
+      <cjk-radical number="76" radical="2F4B" ideograph="6B20"/>
+      <cjk-radical number="77" radical="2F4C" ideograph="6B62"/>
+      <cjk-radical number="78" radical="2F4D" ideograph="6B79"/>
+      <cjk-radical number="79" radical="2F4E" ideograph="6BB3"/>
+      <cjk-radical number="80" radical="2F4F" ideograph="6BCB"/>
+      <cjk-radical number="81" radical="2F50" ideograph="6BD4"/>
+      <cjk-radical number="82" radical="2F51" ideograph="6BDB"/>
+      <cjk-radical number="83" radical="2F52" ideograph="6C0F"/>
+      <cjk-radical number="84" radical="2F53" ideograph="6C14"/>
+      <cjk-radical number="85" radical="2F54" ideograph="6C34"/>
+      <cjk-radical number="86" radical="2F55" ideograph="706B"/>
+      <cjk-radical number="87" radical="2F56" ideograph="722A"/>
+      <cjk-radical number="88" radical="2F57" ideograph="7236"/>
+      <cjk-radical number="89" radical="2F58" ideograph="723B"/>
+      <cjk-radical number="90" radical="2F59" ideograph="723F"/>
+      <cjk-radical number="90'" radical="2EA6" ideograph="4E2C"/>
+      <cjk-radical number="91" radical="2F5A" ideograph="7247"/>
+      <cjk-radical number="92" radical="2F5B" ideograph="7259"/>
+      <cjk-radical number="93" radical="2F5C" ideograph="725B"/>
+      <cjk-radical number="94" radical="2F5D" ideograph="72AC"/>
+      <cjk-radical number="95" radical="2F5E" ideograph="7384"/>
+      <cjk-radical number="96" radical="2F5F" ideograph="7389"/>
+      <cjk-radical number="97" radical="2F60" ideograph="74DC"/>
+      <cjk-radical number="98" radical="2F61" ideograph="74E6"/>
+      <cjk-radical number="99" radical="2F62" ideograph="7518"/>
+      <cjk-radical number="100" radical="2F63" ideograph="751F"/>
+      <cjk-radical number="101" radical="2F64" ideograph="7528"/>
+      <cjk-radical number="102" radical="2F65" ideograph="7530"/>
+      <cjk-radical number="103" radical="2F66" ideograph="758B"/>
+      <cjk-radical number="104" radical="2F67" ideograph="7592"/>
+      <cjk-radical number="105" radical="2F68" ideograph="7676"/>
+      <cjk-radical number="106" radical="2F69" ideograph="767D"/>
+      <cjk-radical number="107" radical="2F6A" ideograph="76AE"/>
+      <cjk-radical number="108" radical="2F6B" ideograph="76BF"/>
+      <cjk-radical number="109" radical="2F6C" ideograph="76EE"/>
+      <cjk-radical number="110" radical="2F6D" ideograph="77DB"/>
+      <cjk-radical number="111" radical="2F6E" ideograph="77E2"/>
+      <cjk-radical number="112" radical="2F6F" ideograph="77F3"/>
+      <cjk-radical number="113" radical="2F70" ideograph="793A"/>
+      <cjk-radical number="114" radical="2F71" ideograph="79B8"/>
+      <cjk-radical number="115" radical="2F72" ideograph="79BE"/>
+      <cjk-radical number="116" radical="2F73" ideograph="7A74"/>
+      <cjk-radical number="117" radical="2F74" ideograph="7ACB"/>
+      <cjk-radical number="118" radical="2F75" ideograph="7AF9"/>
+      <cjk-radical number="119" radical="2F76" ideograph="7C73"/>
+      <cjk-radical number="120" radical="2F77" ideograph="7CF8"/>
+      <cjk-radical number="120'" radical="2EB0" ideograph="7E9F"/>
+      <cjk-radical number="121" radical="2F78" ideograph="7F36"/>
+      <cjk-radical number="122" radical="2F79" ideograph="7F51"/>
+      <cjk-radical number="123" radical="2F7A" ideograph="7F8A"/>
+      <cjk-radical number="124" radical="2F7B" ideograph="7FBD"/>
+      <cjk-radical number="125" radical="2F7C" ideograph="8001"/>
+      <cjk-radical number="126" radical="2F7D" ideograph="800C"/>
+      <cjk-radical number="127" radical="2F7E" ideograph="8012"/>
+      <cjk-radical number="128" radical="2F7F" ideograph="8033"/>
+      <cjk-radical number="129" radical="2F80" ideograph="807F"/>
+      <cjk-radical number="130" radical="2F81" ideograph="8089"/>
+      <cjk-radical number="131" radical="2F82" ideograph="81E3"/>
+      <cjk-radical number="132" radical="2F83" ideograph="81EA"/>
+      <cjk-radical number="133" radical="2F84" ideograph="81F3"/>
+      <cjk-radical number="134" radical="2F85" ideograph="81FC"/>
+      <cjk-radical number="135" radical="2F86" ideograph="820C"/>
+      <cjk-radical number="136" radical="2F87" ideograph="821B"/>
+      <cjk-radical number="137" radical="2F88" ideograph="821F"/>
+      <cjk-radical number="138" radical="2F89" ideograph="826E"/>
+      <cjk-radical number="139" radical="2F8A" ideograph="8272"/>
+      <cjk-radical number="140" radical="2F8B" ideograph="8278"/>
+      <cjk-radical number="141" radical="2F8C" ideograph="864D"/>
+      <cjk-radical number="142" radical="2F8D" ideograph="866B"/>
+      <cjk-radical number="143" radical="2F8E" ideograph="8840"/>
+      <cjk-radical number="144" radical="2F8F" ideograph="884C"/>
+      <cjk-radical number="145" radical="2F90" ideograph="8863"/>
+      <cjk-radical number="146" radical="2F91" ideograph="897E"/>
+      <cjk-radical number="147" radical="2F92" ideograph="898B"/>
+      <cjk-radical number="147'" radical="2EC5" ideograph="89C1"/>
+      <cjk-radical number="148" radical="2F93" ideograph="89D2"/>
+      <cjk-radical number="149" radical="2F94" ideograph="8A00"/>
+      <cjk-radical number="149'" radical="2EC8" ideograph="8BA0"/>
+      <cjk-radical number="150" radical="2F95" ideograph="8C37"/>
+      <cjk-radical number="151" radical="2F96" ideograph="8C46"/>
+      <cjk-radical number="152" radical="2F97" ideograph="8C55"/>
+      <cjk-radical number="153" radical="2F98" ideograph="8C78"/>
+      <cjk-radical number="154" radical="2F99" ideograph="8C9D"/>
+      <cjk-radical number="154'" radical="2EC9" ideograph="8D1D"/>
+      <cjk-radical number="155" radical="2F9A" ideograph="8D64"/>
+      <cjk-radical number="156" radical="2F9B" ideograph="8D70"/>
+      <cjk-radical number="157" radical="2F9C" ideograph="8DB3"/>
+      <cjk-radical number="158" radical="2F9D" ideograph="8EAB"/>
+      <cjk-radical number="159" radical="2F9E" ideograph="8ECA"/>
+      <cjk-radical number="159'" radical="2ECB" ideograph="8F66"/>
+      <cjk-radical number="160" radical="2F9F" ideograph="8F9B"/>
+      <cjk-radical number="161" radical="2FA0" ideograph="8FB0"/>
+      <cjk-radical number="162" radical="2FA1" ideograph="8FB5"/>
+      <cjk-radical number="162'" radical="2ECC" ideograph="8FB6"/>
+      <cjk-radical number="163" radical="2FA2" ideograph="9091"/>
+      <cjk-radical number="164" radical="2FA3" ideograph="9149"/>
+      <cjk-radical number="165" radical="2FA4" ideograph="91C6"/>
+      <cjk-radical number="166" radical="2FA5" ideograph="91CC"/>
+      <cjk-radical number="167" radical="2FA6" ideograph="91D1"/>
+      <cjk-radical number="167'" radical="2ED0" ideograph="9485"/>
+      <cjk-radical number="168" radical="2FA7" ideograph="9577"/>
+      <cjk-radical number="168'" radical="2ED3" ideograph="957F"/>
+      <cjk-radical number="169" radical="2FA8" ideograph="9580"/>
+      <cjk-radical number="169'" radical="2ED4" ideograph="95E8"/>
+      <cjk-radical number="170" radical="2FA9" ideograph="961C"/>
+      <cjk-radical number="171" radical="2FAA" ideograph="96B6"/>
+      <cjk-radical number="172" radical="2FAB" ideograph="96B9"/>
+      <cjk-radical number="173" radical="2FAC" ideograph="96E8"/>
+      <cjk-radical number="174" radical="2FAD" ideograph="9751"/>
+      <cjk-radical number="175" radical="2FAE" ideograph="975E"/>
+      <cjk-radical number="176" radical="2FAF" ideograph="9762"/>
+      <cjk-radical number="177" radical="2FB0" ideograph="9769"/>
+      <cjk-radical number="178" radical="2FB1" ideograph="97CB"/>
+      <cjk-radical number="178'" radical="2ED9" ideograph="97E6"/>
+      <cjk-radical number="179" radical="2FB2" ideograph="97ED"/>
+      <cjk-radical number="180" radical="2FB3" ideograph="97F3"/>
+      <cjk-radical number="181" radical="2FB4" ideograph="9801"/>
+      <cjk-radical number="181'" radical="2EDA" ideograph="9875"/>
+      <cjk-radical number="182" radical="2FB5" ideograph="98A8"/>
+      <cjk-radical number="182'" radical="2EDB" ideograph="98CE"/>
+      <cjk-radical number="183" radical="2FB6" ideograph="98DB"/>
+      <cjk-radical number="183'" radical="2EDC" ideograph="98DE"/>
+      <cjk-radical number="184" radical="2FB7" ideograph="98DF"/>
+      <cjk-radical number="184'" radical="2EE0" ideograph="9963"/>
+      <cjk-radical number="185" radical="2FB8" ideograph="9996"/>
+      <cjk-radical number="186" radical="2FB9" ideograph="9999"/>
+      <cjk-radical number="187" radical="2FBA" ideograph="99AC"/>
+      <cjk-radical number="187'" radical="2EE2" ideograph="9A6C"/>
+      <cjk-radical number="188" radical="2FBB" ideograph="9AA8"/>
+      <cjk-radical number="189" radical="2FBC" ideograph="9AD8"/>
+      <cjk-radical number="190" radical="2FBD" ideograph="9ADF"/>
+      <cjk-radical number="191" radical="2FBE" ideograph="9B25"/>
+      <cjk-radical number="192" radical="2FBF" ideograph="9B2F"/>
+      <cjk-radical number="193" radical="2FC0" ideograph="9B32"/>
+      <cjk-radical number="194" radical="2FC1" ideograph="9B3C"/>
+      <cjk-radical number="195" radical="2FC2" ideograph="9B5A"/>
+      <cjk-radical number="195'" radical="2EE5" ideograph="9C7C"/>
+      <cjk-radical number="196" radical="2FC3" ideograph="9CE5"/>
+      <cjk-radical number="196'" radical="2EE6" ideograph="9E1F"/>
+      <cjk-radical number="197" radical="2FC4" ideograph="9E75"/>
+      <cjk-radical number="197'" radical="2EE7" ideograph="5364"/>
+      <cjk-radical number="198" radical="2FC5" ideograph="9E7F"/>
+      <cjk-radical number="199" radical="2FC6" ideograph="9EA5"/>
+      <cjk-radical number="199'" radical="2EE8" ideograph="9EA6"/>
+      <cjk-radical number="200" radical="2FC7" ideograph="9EBB"/>
+      <cjk-radical number="201" radical="2FC8" ideograph="9EC3"/>
+      <cjk-radical number="201'" radical="2EE9" ideograph="9EC4"/>
+      <cjk-radical number="202" radical="2FC9" ideograph="9ECD"/>
+      <cjk-radical number="203" radical="2FCA" ideograph="9ED1"/>
+      <cjk-radical number="204" radical="2FCB" ideograph="9EF9"/>
+      <cjk-radical number="205" radical="2FCC" ideograph="9EFD"/>
+      <cjk-radical number="205'" radical="2EEA" ideograph="9EFE"/>
+      <cjk-radical number="206" radical="2FCD" ideograph="9F0E"/>
+      <cjk-radical number="207" radical="2FCE" ideograph="9F13"/>
+      <cjk-radical number="208" radical="2FCF" ideograph="9F20"/>
+      <cjk-radical number="209" radical="2FD0" ideograph="9F3B"/>
+      <cjk-radical number="210" radical="2FD1" ideograph="9F4A"/>
+      <cjk-radical number="210'" radical="2EEC" ideograph="9F50"/>
+      <cjk-radical number="211" radical="2FD2" ideograph="9F52"/>
+      <cjk-radical number="211'" radical="2EEE" ideograph="9F7F"/>
+      <cjk-radical number="212" radical="2FD3" ideograph="9F8D"/>
+      <cjk-radical number="212'" radical="2EF0" ideograph="9F99"/>
+      <cjk-radical number="213" radical="2FD4" ideograph="9F9C"/>
+      <cjk-radical number="213'" radical="2EF3" ideograph="9F9F"/>
+      <cjk-radical number="214" radical="2FD5" ideograph="9FA0"/>
+   </cjk-radicals>
+   <emoji-sources>
+      <emoji-source unicode="0023 20E3" docomo="F985" kddi="F489" softbank="F7B0"/>
+      <emoji-source unicode="0030 20E3" docomo="F990" kddi="F7C9" softbank="F7C5"/>
+      <emoji-source unicode="0031 20E3" docomo="F987" kddi="F6FB" softbank="F7BC"/>
+      <emoji-source unicode="0032 20E3" docomo="F988" kddi="F6FC" softbank="F7BD"/>
+      <emoji-source unicode="0033 20E3" docomo="F989" kddi="F740" softbank="F7BE"/>
+      <emoji-source unicode="0034 20E3" docomo="F98A" kddi="F741" softbank="F7BF"/>
+      <emoji-source unicode="0035 20E3" docomo="F98B" kddi="F742" softbank="F7C0"/>
+      <emoji-source unicode="0036 20E3" docomo="F98C" kddi="F743" softbank="F7C1"/>
+      <emoji-source unicode="0037 20E3" docomo="F98D" kddi="F744" softbank="F7C2"/>
+      <emoji-source unicode="0038 20E3" docomo="F98E" kddi="F745" softbank="F7C3"/>
+      <emoji-source unicode="0039 20E3" docomo="F98F" kddi="F746" softbank="F7C4"/>
+      <emoji-source unicode="00A9" docomo="F9D6" kddi="F774" softbank="F7EE"/>
+      <emoji-source unicode="00AE" docomo="F9DB" kddi="F775" softbank="F7EF"/>
+      <emoji-source unicode="2002" docomo="" kddi="F7AA" softbank=""/>
+      <emoji-source unicode="2003" docomo="" kddi="F7A9" softbank=""/>
+      <emoji-source unicode="2005" docomo="" kddi="F7AB" softbank=""/>
+      <emoji-source unicode="203C" docomo="F9A9" kddi="F3F1" softbank=""/>
+      <emoji-source unicode="2049" docomo="F9A8" kddi="F3F0" softbank=""/>
+      <emoji-source unicode="2122" docomo="F9D7" kddi="F76A" softbank="FBD7"/>
+      <emoji-source unicode="2139" docomo="" kddi="F74F" softbank=""/>
+      <emoji-source unicode="2194" docomo="F9E1" kddi="F47E" softbank=""/>
+      <emoji-source unicode="2195" docomo="F9E2" kddi="F480" softbank=""/>
+      <emoji-source unicode="2196" docomo="F8F8" kddi="F768" softbank="F7D7"/>
+      <emoji-source unicode="2197" docomo="F8D9" kddi="F771" softbank="F7D6"/>
+      <emoji-source unicode="2198" docomo="F8F7" kddi="F769" softbank="F7D8"/>
+      <emoji-source unicode="2199" docomo="F949" kddi="F772" softbank="F7D9"/>
+      <emoji-source unicode="21A9" docomo="F97E" kddi="F779" softbank=""/>
+      <emoji-source unicode="21AA" docomo="" kddi="F778" softbank=""/>
+      <emoji-source unicode="231A" docomo="F9C4" kddi="F797" softbank=""/>
+      <emoji-source unicode="231B" docomo="" kddi="F798" softbank=""/>
+      <emoji-source unicode="23E9" docomo="" kddi="F74C" softbank="F7DC"/>
+      <emoji-source unicode="23EA" docomo="" kddi="F74B" softbank="F7DD"/>
+      <emoji-source unicode="23EB" docomo="" kddi="F761" softbank=""/>
+      <emoji-source unicode="23EC" docomo="" kddi="F760" softbank=""/>
+      <emoji-source unicode="23F0" docomo="F95E" kddi="F7B1" softbank=""/>
+      <emoji-source unicode="23F3" docomo="F9C1" kddi="F654" softbank=""/>
+      <emoji-source unicode="24C2" docomo="F8BD" kddi="" softbank=""/>
+      <emoji-source unicode="25AA" docomo="" kddi="F74E" softbank=""/>
+      <emoji-source unicode="25AB" docomo="" kddi="F74D" softbank=""/>
+      <emoji-source unicode="25B6" docomo="" kddi="F74A" softbank="F7DA"/>
+      <emoji-source unicode="25C0" docomo="" kddi="F749" softbank="F7DB"/>
+      <emoji-source unicode="25FB" docomo="" kddi="F754" softbank=""/>
+      <emoji-source unicode="25FC" docomo="" kddi="F755" softbank=""/>
+      <emoji-source unicode="25FD" docomo="" kddi="F750" softbank=""/>
+      <emoji-source unicode="25FE" docomo="" kddi="F751" softbank=""/>
+      <emoji-source unicode="2600" docomo="F89F" kddi="F660" softbank="F98B"/>
+      <emoji-source unicode="2601" docomo="F8A0" kddi="F665" softbank="F98A"/>
+      <emoji-source unicode="260E" docomo="F8E8" kddi="F7B3" softbank="F949"/>
+      <emoji-source unicode="2611" docomo="" kddi="F7D9" softbank=""/>
+      <emoji-source unicode="2614" docomo="F8A1" kddi="F664" softbank="F98C"/>
+      <emoji-source unicode="2615" docomo="F8D1" kddi="F7B4" softbank="F986"/>
+      <emoji-source unicode="261D" docomo="" kddi="F6CF" softbank="F94F"/>
+      <emoji-source unicode="263A" docomo="" kddi="F6D4" softbank="FB54"/>
+      <emoji-source unicode="2648" docomo="F8A7" kddi="F667" softbank="F7DF"/>
+      <emoji-source unicode="2649" docomo="F8A8" kddi="F668" softbank="F7E0"/>
+      <emoji-source unicode="264A" docomo="F8A9" kddi="F669" softbank="F7E1"/>
+      <emoji-source unicode="264B" docomo="F8AA" kddi="F66A" softbank="F7E2"/>
+      <emoji-source unicode="264C" docomo="F8AB" kddi="F66B" softbank="F7E3"/>
+      <emoji-source unicode="264D" docomo="F8AC" kddi="F66C" softbank="F7E4"/>
+      <emoji-source unicode="264E" docomo="F8AD" kddi="F66D" softbank="F7E5"/>
+      <emoji-source unicode="264F" docomo="F8AE" kddi="F66E" softbank="F7E6"/>
+      <emoji-source unicode="2650" docomo="F8AF" kddi="F66F" softbank="F7E7"/>
+      <emoji-source unicode="2651" docomo="F8B0" kddi="F670" softbank="F7E8"/>
+      <emoji-source unicode="2652" docomo="F8B1" kddi="F671" softbank="F7E9"/>
+      <emoji-source unicode="2653" docomo="F8B2" kddi="F672" softbank="F7EA"/>
+      <emoji-source unicode="2660" docomo="F8EF" kddi="F7BE" softbank="F7AE"/>
+      <emoji-source unicode="2663" docomo="F8F1" kddi="F7C0" softbank="F7AF"/>
+      <emoji-source unicode="2665" docomo="F8EE" kddi="F378" softbank="F7AC"/>
+      <emoji-source unicode="2666" docomo="F8F0" kddi="F7BF" softbank="F7AD"/>
+      <emoji-source unicode="2668" docomo="F99C" kddi="F695" softbank="F763"/>
+      <emoji-source unicode="267B" docomo="F9DA" kddi="F47D" softbank=""/>
+      <emoji-source unicode="267F" docomo="F8FC" kddi="F657" softbank="F7AA"/>
+      <emoji-source unicode="2693" docomo="" kddi="F682" softbank=""/>
+      <emoji-source unicode="26A0" docomo="F9DC" kddi="F659" softbank="F7F2"/>
+      <emoji-source unicode="26A1" docomo="F8A3" kddi="F65F" softbank="F77D"/>
+      <emoji-source unicode="26AA" docomo="" kddi="F756" softbank=""/>
+      <emoji-source unicode="26AB" docomo="" kddi="F757" softbank=""/>
+      <emoji-source unicode="26BD" docomo="F8B7" kddi="F68F" softbank="F958"/>
+      <emoji-source unicode="26BE" docomo="F8B4" kddi="F693" softbank="F956"/>
+      <emoji-source unicode="26C4" docomo="F8A2" kddi="F65D" softbank="F989"/>
+      <emoji-source unicode="26C5" docomo="" kddi="F666" softbank=""/>
+      <emoji-source unicode="26CE" docomo="" kddi="F673" softbank="F7EB"/>
+      <emoji-source unicode="26D4" docomo="" kddi="F65C" softbank=""/>
+      <emoji-source unicode="26EA" docomo="" kddi="F7EB" softbank="F977"/>
+      <emoji-source unicode="26F2" docomo="" kddi="F342" softbank="F761"/>
+      <emoji-source unicode="26F3" docomo="F8B5" kddi="F7B6" softbank="F954"/>
+      <emoji-source unicode="26F5" docomo="F947" kddi="F68D" softbank="F95C"/>
+      <emoji-source unicode="26FA" docomo="" kddi="F343" softbank="F762"/>
+      <emoji-source unicode="26FD" docomo="F8CC" kddi="F78E" softbank="F97A"/>
+      <emoji-source unicode="2702" docomo="F8D6" kddi="F6EF" softbank="F9B3"/>
+      <emoji-source unicode="2705" docomo="" kddi="F77A" softbank=""/>
+      <emoji-source unicode="2708" docomo="F8C3" kddi="F68C" softbank="F95D"/>
+      <emoji-source unicode="2709" docomo="F977" kddi="F6FA" softbank=""/>
+      <emoji-source unicode="270A" docomo="F8F4" kddi="F488" softbank="F950"/>
+      <emoji-source unicode="270B" docomo="F8F6" kddi="F7C4" softbank="F952"/>
+      <emoji-source unicode="270C" docomo="F8F5" kddi="F7C3" softbank="F951"/>
+      <emoji-source unicode="270F" docomo="F9BE" kddi="F679" softbank=""/>
+      <emoji-source unicode="2712" docomo="F952" kddi="F7DA" softbank=""/>
+      <emoji-source unicode="2714" docomo="" kddi="F773" softbank=""/>
+      <emoji-source unicode="2716" docomo="" kddi="F76B" softbank=""/>
+      <emoji-source unicode="2728" docomo="F99F" kddi="F37E" softbank="F9CE"/>
+      <emoji-source unicode="2733" docomo="" kddi="F75A" softbank="F7A6"/>
+      <emoji-source unicode="2734" docomo="" kddi="F651" softbank="F7A5"/>
+      <emoji-source unicode="2744" docomo="" kddi="F662" softbank=""/>
+      <emoji-source unicode="2747" docomo="" kddi="F644" softbank=""/>
+      <emoji-source unicode="274C" docomo="" kddi="F76C" softbank="F9D3"/>
+      <emoji-source unicode="274E" docomo="" kddi="F76D" softbank=""/>
+      <emoji-source unicode="2753" docomo="" kddi="F65B" softbank="F960"/>
+      <emoji-source unicode="2754" docomo="" kddi="" softbank="F9D6"/>
+      <emoji-source unicode="2755" docomo="" kddi="" softbank="F9D7"/>
+      <emoji-source unicode="2757" docomo="F9A7" kddi="F65A" softbank="F961"/>
+      <emoji-source unicode="2764" docomo="F991" kddi="F7B2" softbank="F962"/>
+      <emoji-source unicode="2795" docomo="" kddi="F758" softbank=""/>
+      <emoji-source unicode="2796" docomo="" kddi="F759" softbank=""/>
+      <emoji-source unicode="2797" docomo="" kddi="F770" softbank=""/>
+      <emoji-source unicode="27A1" docomo="" kddi="F76E" softbank="F7D4"/>
+      <emoji-source unicode="27B0" docomo="F9AF" kddi="F3F2" softbank=""/>
+      <emoji-source unicode="2934" docomo="F99A" kddi="F3EE" softbank=""/>
+      <emoji-source unicode="2935" docomo="F9A5" kddi="F3EF" softbank=""/>
+      <emoji-source unicode="2B05" docomo="" kddi="F76F" softbank="F7D5"/>
+      <emoji-source unicode="2B06" docomo="" kddi="F75B" softbank="F7D2"/>
+      <emoji-source unicode="2B07" docomo="" kddi="F75C" softbank="F7D3"/>
+      <emoji-source unicode="2B1B" docomo="" kddi="F765" softbank=""/>
+      <emoji-source unicode="2B1C" docomo="" kddi="F764" softbank=""/>
+      <emoji-source unicode="2B50" docomo="" kddi="F663" softbank="F9CF"/>
+      <emoji-source unicode="2B55" docomo="" kddi="F381" softbank="F9D2"/>
+      <emoji-source unicode="3030" docomo="F9AE" kddi="" softbank=""/>
+      <emoji-source unicode="303D" docomo="" kddi="" softbank="F76C"/>
+      <emoji-source unicode="3297" docomo="" kddi="F36C" softbank="F9AD"/>
+      <emoji-source unicode="3299" docomo="F9D9" kddi="F6CA" softbank="F9B5"/>
+      <emoji-source unicode="1F004" docomo="" kddi="F344" softbank="F76D"/>
+      <emoji-source unicode="1F0CF" docomo="" kddi="F473" softbank=""/>
+      <emoji-source unicode="1F170" docomo="" kddi="F3E7" softbank="FBD2"/>
+      <emoji-source unicode="1F171" docomo="" kddi="F3E8" softbank="FBD3"/>
+      <emoji-source unicode="1F17E" docomo="" kddi="F3E9" softbank="FBD5"/>
+      <emoji-source unicode="1F17F" docomo="F8CD" kddi="F67E" softbank="F790"/>
+      <emoji-source unicode="1F18E" docomo="" kddi="F3EA" softbank="FBD4"/>
+      <emoji-source unicode="1F191" docomo="F980" kddi="F7C8" softbank=""/>
+      <emoji-source unicode="1F192" docomo="" kddi="F358" softbank="F7B4"/>
+      <emoji-source unicode="1F193" docomo="F97B" kddi="F795" softbank=""/>
+      <emoji-source unicode="1F194" docomo="F97C" kddi="F35B" softbank="F7C9"/>
+      <emoji-source unicode="1F195" docomo="F982" kddi="F7E5" softbank="F7B2"/>
+      <emoji-source unicode="1F196" docomo="F9D4" kddi="" softbank=""/>
+      <emoji-source unicode="1F197" docomo="F9B0" kddi="F7CA" softbank="F7ED"/>
+      <emoji-source unicode="1F198" docomo="" kddi="F6C1" softbank=""/>
+      <emoji-source unicode="1F199" docomo="" kddi="F6E8" softbank="F7B3"/>
+      <emoji-source unicode="1F19A" docomo="" kddi="F345" softbank="F76E"/>
+      <emoji-source unicode="1F1E8 1F1F3" docomo="" kddi="F3D2" softbank="FBB3"/>
+      <emoji-source unicode="1F1E9 1F1EA" docomo="" kddi="F3CF" softbank="FBAE"/>
+      <emoji-source unicode="1F1EA 1F1F8" docomo="" kddi="F348" softbank="FBB1"/>
+      <emoji-source unicode="1F1EB 1F1F7" docomo="" kddi="F3CE" softbank="FBAD"/>
+      <emoji-source unicode="1F1EC 1F1E7" docomo="" kddi="F3D1" softbank="FBB0"/>
+      <emoji-source unicode="1F1EE 1F1F9" docomo="" kddi="F3D0" softbank="FBAF"/>
+      <emoji-source unicode="1F1EF 1F1F5" docomo="" kddi="F6A5" softbank="FBAB"/>
+      <emoji-source unicode="1F1F0 1F1F7" docomo="" kddi="F3D3" softbank="FBB4"/>
+      <emoji-source unicode="1F1F7 1F1FA" docomo="" kddi="F349" softbank="FBB2"/>
+      <emoji-source unicode="1F1FA 1F1F8" docomo="" kddi="F790" softbank="FBAC"/>
+      <emoji-source unicode="1F201" docomo="" kddi="" softbank="F7A3"/>
+      <emoji-source unicode="1F202" docomo="" kddi="F35A" softbank="F7C8"/>
+      <emoji-source unicode="1F21A" docomo="" kddi="" softbank="F7B6"/>
+      <emoji-source unicode="1F22F" docomo="" kddi="F35E" softbank="F7CC"/>
+      <emoji-source unicode="1F232" docomo="F9DD" kddi="" softbank=""/>
+      <emoji-source unicode="1F233" docomo="F9DE" kddi="F35D" softbank="F7CB"/>
+      <emoji-source unicode="1F234" docomo="F9DF" kddi="" softbank=""/>
+      <emoji-source unicode="1F235" docomo="F9E0" kddi="F35C" softbank="F7CA"/>
+      <emoji-source unicode="1F236" docomo="" kddi="" softbank="F7B5"/>
+      <emoji-source unicode="1F237" docomo="" kddi="" softbank="F7B7"/>
+      <emoji-source unicode="1F238" docomo="" kddi="" softbank="F7B8"/>
+      <emoji-source unicode="1F239" docomo="" kddi="F359" softbank="F7C7"/>
+      <emoji-source unicode="1F23A" docomo="" kddi="F35F" softbank="F7CD"/>
+      <emoji-source unicode="1F250" docomo="" kddi="F6D0" softbank="F7C6"/>
+      <emoji-source unicode="1F251" docomo="" kddi="F7D8" softbank=""/>
+      <emoji-source unicode="1F300" docomo="F8A4" kddi="F641" softbank="FB84"/>
+      <emoji-source unicode="1F301" docomo="F8A5" kddi="F7B5" softbank=""/>
+      <emoji-source unicode="1F302" docomo="F8A6" kddi="F3BC" softbank="FB7C"/>
+      <emoji-source unicode="1F303" docomo="F957" kddi="F3C5" softbank="FB8C"/>
+      <emoji-source unicode="1F304" docomo="" kddi="" softbank="F98E"/>
+      <emoji-source unicode="1F305" docomo="" kddi="F3C8" softbank="FB8A"/>
+      <emoji-source unicode="1F306" docomo="" kddi="F34D" softbank="F787"/>
+      <emoji-source unicode="1F307" docomo="" kddi="" softbank="FB8B"/>
+      <emoji-source unicode="1F308" docomo="" kddi="F3C6" softbank="FB8D"/>
+      <emoji-source unicode="1F309" docomo="" kddi="F698" softbank=""/>
+      <emoji-source unicode="1F30A" docomo="F9E4" kddi="F481" softbank="FB7E"/>
+      <emoji-source unicode="1F30B" docomo="" kddi="F457" softbank=""/>
+      <emoji-source unicode="1F30C" docomo="" kddi="F463" softbank=""/>
+      <emoji-source unicode="1F30F" docomo="" kddi="F7D0" softbank=""/>
+      <emoji-source unicode="1F311" docomo="F940" kddi="F7C5" softbank=""/>
+      <emoji-source unicode="1F313" docomo="F942" kddi="F7C7" softbank=""/>
+      <emoji-source unicode="1F314" docomo="F941" kddi="F7C6" softbank=""/>
+      <emoji-source unicode="1F315" docomo="F944" kddi="" softbank=""/>
+      <emoji-source unicode="1F319" docomo="F943" kddi="F65E" softbank="F98D"/>
+      <emoji-source unicode="1F31B" docomo="" kddi="F661" softbank=""/>
+      <emoji-source unicode="1F31F" docomo="" kddi="" softbank="F9D5"/>
+      <emoji-source unicode="1F320" docomo="" kddi="F640" softbank=""/>
+      <emoji-source unicode="1F330" docomo="" kddi="F3F9" softbank=""/>
+      <emoji-source unicode="1F331" docomo="F9EB" kddi="F482" softbank=""/>
+      <emoji-source unicode="1F334" docomo="" kddi="F6BB" softbank="F9A7"/>
+      <emoji-source unicode="1F335" docomo="" kddi="F369" softbank="F9A8"/>
+      <emoji-source unicode="1F337" docomo="F9E8" kddi="F6BD" softbank="F9A4"/>
+      <emoji-source unicode="1F338" docomo="F9ED" kddi="F6A3" softbank="F970"/>
+      <emoji-source unicode="1F339" docomo="" kddi="F7EA" softbank="F972"/>
+      <emoji-source unicode="1F33A" docomo="" kddi="F367" softbank="F9A3"/>
+      <emoji-source unicode="1F33B" docomo="" kddi="F6BC" softbank="F9A5"/>
+      <emoji-source unicode="1F33C" docomo="" kddi="F44D" softbank=""/>
+      <emoji-source unicode="1F33D" docomo="" kddi="F3F7" softbank=""/>
+      <emoji-source unicode="1F33E" docomo="" kddi="" softbank="FB85"/>
+      <emoji-source unicode="1F33F" docomo="" kddi="F487" softbank=""/>
+      <emoji-source unicode="1F340" docomo="F9E6" kddi="F6EC" softbank="F750"/>
+      <emoji-source unicode="1F341" docomo="F9EC" kddi="F6A7" softbank="F758"/>
+      <emoji-source unicode="1F342" docomo="" kddi="F340" softbank="F759"/>
+      <emoji-source unicode="1F343" docomo="" kddi="" softbank="FB88"/>
+      <emoji-source unicode="1F344" docomo="" kddi="F3F8" softbank=""/>
+      <emoji-source unicode="1F345" docomo="" kddi="F38F" softbank="F9E9"/>
+      <emoji-source unicode="1F346" docomo="" kddi="F390" softbank="F9EA"/>
+      <emoji-source unicode="1F347" docomo="" kddi="F3F5" softbank=""/>
+      <emoji-source unicode="1F348" docomo="" kddi="F3F3" softbank=""/>
+      <emoji-source unicode="1F349" docomo="" kddi="F6A6" softbank="F9E8"/>
+      <emoji-source unicode="1F34A" docomo="" kddi="F38E" softbank="F9E6"/>
+      <emoji-source unicode="1F34C" docomo="F9E9" kddi="F3F6" softbank=""/>
+      <emoji-source unicode="1F34D" docomo="" kddi="F3F4" softbank=""/>
+      <emoji-source unicode="1F34E" docomo="F9EA" kddi="F38D" softbank="F9E5"/>
+      <emoji-source unicode="1F34F" docomo="" kddi="F45E" softbank=""/>
+      <emoji-source unicode="1F351" docomo="" kddi="F3FA" softbank=""/>
+      <emoji-source unicode="1F352" docomo="F9E7" kddi="F6AB" softbank=""/>
+      <emoji-source unicode="1F353" docomo="" kddi="F6AD" softbank="F9E7"/>
+      <emoji-source unicode="1F354" docomo="F8D4" kddi="F6AF" softbank="F760"/>
+      <emoji-source unicode="1F355" docomo="" kddi="F3FC" softbank=""/>
+      <emoji-source unicode="1F356" docomo="" kddi="F69D" softbank=""/>
+      <emoji-source unicode="1F357" docomo="" kddi="F440" softbank=""/>
+      <emoji-source unicode="1F358" docomo="" kddi="F387" softbank="F9DD"/>
+      <emoji-source unicode="1F359" docomo="F9EE" kddi="F6AE" softbank="F9E2"/>
+      <emoji-source unicode="1F35A" docomo="" kddi="F388" softbank="F9DE"/>
+      <emoji-source unicode="1F35B" docomo="" kddi="F38A" softbank="F9E1"/>
+      <emoji-source unicode="1F35C" docomo="F9F1" kddi="F7D1" softbank="F9E0"/>
+      <emoji-source unicode="1F35D" docomo="" kddi="F389" softbank="F9DF"/>
+      <emoji-source unicode="1F35E" docomo="F9F2" kddi="F383" softbank="F9D9"/>
+      <emoji-source unicode="1F35F" docomo="" kddi="F385" softbank="F9DB"/>
+      <emoji-source unicode="1F360" docomo="" kddi="F3FB" softbank=""/>
+      <emoji-source unicode="1F361" docomo="" kddi="F386" softbank="F9DC"/>
+      <emoji-source unicode="1F362" docomo="" kddi="F38B" softbank="F9E3"/>
+      <emoji-source unicode="1F363" docomo="" kddi="F38C" softbank="F9E4"/>
+      <emoji-source unicode="1F364" docomo="" kddi="F474" softbank=""/>
+      <emoji-source unicode="1F365" docomo="" kddi="F6C6" softbank=""/>
+      <emoji-source unicode="1F366" docomo="" kddi="F384" softbank="F9DA"/>
+      <emoji-source unicode="1F367" docomo="" kddi="F3BE" softbank="FB80"/>
+      <emoji-source unicode="1F368" docomo="" kddi="F44E" softbank=""/>
+      <emoji-source unicode="1F369" docomo="" kddi="F44F" softbank=""/>
+      <emoji-source unicode="1F36A" docomo="" kddi="F450" softbank=""/>
+      <emoji-source unicode="1F36B" docomo="" kddi="F451" softbank=""/>
+      <emoji-source unicode="1F36C" docomo="" kddi="F452" softbank=""/>
+      <emoji-source unicode="1F36D" docomo="" kddi="F453" softbank=""/>
+      <emoji-source unicode="1F36E" docomo="" kddi="F45A" softbank=""/>
+      <emoji-source unicode="1F36F" docomo="" kddi="F45D" softbank=""/>
+      <emoji-source unicode="1F370" docomo="F9EF" kddi="F6A9" softbank="F987"/>
+      <emoji-source unicode="1F371" docomo="" kddi="F391" softbank="F9EC"/>
+      <emoji-source unicode="1F372" docomo="" kddi="F392" softbank="F9ED"/>
+      <emoji-source unicode="1F373" docomo="" kddi="F6AA" softbank="F788"/>
+      <emoji-source unicode="1F374" docomo="F8D0" kddi="F685" softbank="F984"/>
+      <emoji-source unicode="1F375" docomo="F9C3" kddi="F382" softbank="F9D8"/>
+      <emoji-source unicode="1F376" docomo="F9F0" kddi="F36A" softbank="F9AB"/>
+      <emoji-source unicode="1F377" docomo="F9FB" kddi="F69A" softbank=""/>
+      <emoji-source unicode="1F378" docomo="F8D2" kddi="F69B" softbank="F985"/>
+      <emoji-source unicode="1F379" docomo="" kddi="F442" softbank=""/>
+      <emoji-source unicode="1F37A" docomo="F8D3" kddi="F69C" softbank="F988"/>
+      <emoji-source unicode="1F37B" docomo="" kddi="F36B" softbank="F9AC"/>
+      <emoji-source unicode="1F380" docomo="F8E5" kddi="F7BC" softbank="F9B4"/>
+      <emoji-source unicode="1F381" docomo="F8E6" kddi="F6A8" softbank="F752"/>
+      <emoji-source unicode="1F382" docomo="F8E7" kddi="F7BD" softbank="F9EB"/>
+      <emoji-source unicode="1F383" docomo="" kddi="F3C2" softbank="FB86"/>
+      <emoji-source unicode="1F384" docomo="F948" kddi="F6A2" softbank="F973"/>
+      <emoji-source unicode="1F385" docomo="" kddi="F3C4" softbank="FB89"/>
+      <emoji-source unicode="1F386" docomo="" kddi="F7FC" softbank="F757"/>
+      <emoji-source unicode="1F387" docomo="" kddi="F3BF" softbank="FB81"/>
+      <emoji-source unicode="1F388" docomo="" kddi="F36E" softbank="F9B0"/>
+      <emoji-source unicode="1F389" docomo="" kddi="F36F" softbank="F9B2"/>
+      <emoji-source unicode="1F38A" docomo="" kddi="F647" softbank=""/>
+      <emoji-source unicode="1F38B" docomo="" kddi="F441" softbank=""/>
+      <emoji-source unicode="1F38C" docomo="" kddi="F34C" softbank="F784"/>
+      <emoji-source unicode="1F38D" docomo="" kddi="F3B7" softbank="FB76"/>
+      <emoji-source unicode="1F38E" docomo="" kddi="F3B8" softbank="FB78"/>
+      <emoji-source unicode="1F38F" docomo="" kddi="F3BB" softbank="FB7B"/>
+      <emoji-source unicode="1F390" docomo="" kddi="F3C1" softbank="FB83"/>
+      <emoji-source unicode="1F391" docomo="" kddi="F3C3" softbank="FB87"/>
+      <emoji-source unicode="1F392" docomo="" kddi="F3BA" softbank="FB7A"/>
+      <emoji-source unicode="1F393" docomo="" kddi="F3B9" softbank="FB79"/>
+      <emoji-source unicode="1F3A0" docomo="F8DA" kddi="" softbank=""/>
+      <emoji-source unicode="1F3A1" docomo="" kddi="F645" softbank="F764"/>
+      <emoji-source unicode="1F3A2" docomo="" kddi="F3B6" softbank="FB73"/>
+      <emoji-source unicode="1F3A3" docomo="" kddi="F446" softbank=""/>
+      <emoji-source unicode="1F3A4" docomo="F8D7" kddi="F6DC" softbank="F97C"/>
+      <emoji-source unicode="1F3A5" docomo="F8D8" kddi="F6F0" softbank="F97D"/>
+      <emoji-source unicode="1F3A6" docomo="" kddi="" softbank="FBA7"/>
+      <emoji-source unicode="1F3A7" docomo="F8DB" kddi="F6E1" softbank="F9AA"/>
+      <emoji-source unicode="1F3A8" docomo="F8DC" kddi="F7B9" softbank="FBA2"/>
+      <emoji-source unicode="1F3A9" docomo="F8DD" kddi="F3C9" softbank="FBA3"/>
+      <emoji-source unicode="1F3AA" docomo="F8DE" kddi="F7BB" softbank=""/>
+      <emoji-source unicode="1F3AB" docomo="F8DF" kddi="F676" softbank="F765"/>
+      <emoji-source unicode="1F3AC" docomo="F950" kddi="F697" softbank="F9C4"/>
+      <emoji-source unicode="1F3AD" docomo="" kddi="F7BA" softbank=""/>
+      <emoji-source unicode="1F3AE" docomo="F8EC" kddi="F69F" softbank=""/>
+      <emoji-source unicode="1F3AF" docomo="" kddi="F69E" softbank="F770"/>
+      <emoji-source unicode="1F3B0" docomo="" kddi="F646" softbank="F773"/>
+      <emoji-source unicode="1F3B1" docomo="" kddi="F3B1" softbank="FB6C"/>
+      <emoji-source unicode="1F3B2" docomo="" kddi="F6A1" softbank=""/>
+      <emoji-source unicode="1F3B3" docomo="" kddi="F447" softbank=""/>
+      <emoji-source unicode="1F3B4" docomo="" kddi="F472" softbank=""/>
+      <emoji-source unicode="1F3B5" docomo="F99B" kddi="F7EE" softbank="F97E"/>
+      <emoji-source unicode="1F3B6" docomo="F9A4" kddi="F6DE" softbank="F9C6"/>
+      <emoji-source unicode="1F3B7" docomo="" kddi="" softbank="F981"/>
+      <emoji-source unicode="1F3B8" docomo="" kddi="F6DF" softbank="F982"/>
+      <emoji-source unicode="1F3B9" docomo="" kddi="F444" softbank=""/>
+      <emoji-source unicode="1F3BA" docomo="" kddi="F3B0" softbank="F983"/>
+      <emoji-source unicode="1F3BB" docomo="" kddi="F6E0" softbank=""/>
+      <emoji-source unicode="1F3BC" docomo="" kddi="F3A0" softbank=""/>
+      <emoji-source unicode="1F3BD" docomo="F8B3" kddi="" softbank=""/>
+      <emoji-source unicode="1F3BE" docomo="F8B6" kddi="F690" softbank="F955"/>
+      <emoji-source unicode="1F3BF" docomo="F8B8" kddi="F380" softbank="F953"/>
+      <emoji-source unicode="1F3C0" docomo="F8B9" kddi="F7B7" softbank="FB6A"/>
+      <emoji-source unicode="1F3C1" docomo="F8BA" kddi="F692" softbank="F772"/>
+      <emoji-source unicode="1F3C2" docomo="F9B7" kddi="F691" softbank=""/>
+      <emoji-source unicode="1F3C3" docomo="F9D8" kddi="F643" softbank="F755"/>
+      <emoji-source unicode="1F3C4" docomo="" kddi="F445" softbank="F957"/>
+      <emoji-source unicode="1F3C6" docomo="" kddi="F346" softbank="F771"/>
+      <emoji-source unicode="1F3C8" docomo="" kddi="F694" softbank="FB6B"/>
+      <emoji-source unicode="1F3CA" docomo="" kddi="F3B2" softbank="FB6D"/>
+      <emoji-source unicode="1F3E0" docomo="F8C4" kddi="F684" softbank="F976"/>
+      <emoji-source unicode="1F3E1" docomo="" kddi="F7E0" softbank=""/>
+      <emoji-source unicode="1F3E2" docomo="F8C5" kddi="F686" softbank="F978"/>
+      <emoji-source unicode="1F3E3" docomo="F8C6" kddi="F351" softbank="F794"/>
+      <emoji-source unicode="1F3E5" docomo="F8C7" kddi="F352" softbank="F796"/>
+      <emoji-source unicode="1F3E6" docomo="F8C8" kddi="F683" softbank="F78E"/>
+      <emoji-source unicode="1F3E7" docomo="F8C9" kddi="F67B" softbank="F795"/>
+      <emoji-source unicode="1F3E8" docomo="F8CA" kddi="F354" softbank="F799"/>
+      <emoji-source unicode="1F3E9" docomo="" kddi="F3C7" softbank="FBA1"/>
+      <emoji-source unicode="1F3EA" docomo="F8CB" kddi="F67C" softbank="F797"/>
+      <emoji-source unicode="1F3EB" docomo="F9E3" kddi="F353" softbank="F798"/>
+      <emoji-source unicode="1F3EC" docomo="" kddi="F3CA" softbank="FBA4"/>
+      <emoji-source unicode="1F3ED" docomo="" kddi="F3CD" softbank="FBA8"/>
+      <emoji-source unicode="1F3EE" docomo="" kddi="F696" softbank=""/>
+      <emoji-source unicode="1F3EF" docomo="" kddi="F3CB" softbank="FBA5"/>
+      <emoji-source unicode="1F3F0" docomo="" kddi="F3CC" softbank="FBA6"/>
+      <emoji-source unicode="1F40C" docomo="F9F3" kddi="F483" softbank=""/>
+      <emoji-source unicode="1F40D" docomo="" kddi="F3E3" softbank="FBCD"/>
+      <emoji-source unicode="1F40E" docomo="" kddi="" softbank="F774"/>
+      <emoji-source unicode="1F411" docomo="" kddi="" softbank="FBC9"/>
+      <emoji-source unicode="1F412" docomo="" kddi="" softbank="FBC8"/>
+      <emoji-source unicode="1F414" docomo="" kddi="F3E4" softbank="FBCE"/>
+      <emoji-source unicode="1F417" docomo="" kddi="F3E5" softbank="FBCF"/>
+      <emoji-source unicode="1F418" docomo="" kddi="F3E0" softbank="FBC6"/>
+      <emoji-source unicode="1F419" docomo="" kddi="F7F7" softbank="F74A"/>
+      <emoji-source unicode="1F41A" docomo="" kddi="F3C0" softbank="FB82"/>
+      <emoji-source unicode="1F41B" docomo="" kddi="F3DF" softbank="FBC5"/>
+      <emoji-source unicode="1F41C" docomo="" kddi="F6B6" softbank=""/>
+      <emoji-source unicode="1F41D" docomo="" kddi="F45B" softbank=""/>
+      <emoji-source unicode="1F41E" docomo="" kddi="F45C" softbank=""/>
+      <emoji-source unicode="1F41F" docomo="F9F6" kddi="" softbank="F959"/>
+      <emoji-source unicode="1F420" docomo="" kddi="F3DE" softbank="FBC2"/>
+      <emoji-source unicode="1F421" docomo="" kddi="F6AC" softbank=""/>
+      <emoji-source unicode="1F422" docomo="" kddi="F347" softbank=""/>
+      <emoji-source unicode="1F423" docomo="" kddi="F34E" softbank=""/>
+      <emoji-source unicode="1F424" docomo="F9F4" kddi="F6B9" softbank="FBC3"/>
+      <emoji-source unicode="1F425" docomo="" kddi="F47A" softbank=""/>
+      <emoji-source unicode="1F426" docomo="" kddi="" softbank="FBC1"/>
+      <emoji-source unicode="1F427" docomo="F9F5" kddi="F6B5" softbank="F996"/>
+      <emoji-source unicode="1F428" docomo="" kddi="F3E1" softbank="FBC7"/>
+      <emoji-source unicode="1F429" docomo="" kddi="F6B8" softbank=""/>
+      <emoji-source unicode="1F42B" docomo="" kddi="F3E6" softbank="FBD0"/>
+      <emoji-source unicode="1F42C" docomo="" kddi="F3DC" softbank="FBC0"/>
+      <emoji-source unicode="1F42D" docomo="" kddi="F7F2" softbank="F994"/>
+      <emoji-source unicode="1F42E" docomo="" kddi="F3E2" softbank="FBCB"/>
+      <emoji-source unicode="1F42F" docomo="" kddi="F7F0" softbank="F991"/>
+      <emoji-source unicode="1F430" docomo="" kddi="F6B0" softbank="FBCC"/>
+      <emoji-source unicode="1F431" docomo="F946" kddi="F6B4" softbank="F990"/>
+      <emoji-source unicode="1F432" docomo="" kddi="F443" softbank=""/>
+      <emoji-source unicode="1F433" docomo="" kddi="F648" softbank="F995"/>
+      <emoji-source unicode="1F434" docomo="F9F9" kddi="F6B1" softbank="F95A"/>
+      <emoji-source unicode="1F435" docomo="" kddi="F6B2" softbank="F749"/>
+      <emoji-source unicode="1F436" docomo="F945" kddi="F6BA" softbank="F993"/>
+      <emoji-source unicode="1F437" docomo="F9FA" kddi="F6B7" softbank="F74B"/>
+      <emoji-source unicode="1F438" docomo="" kddi="F6B3" softbank="FBD1"/>
+      <emoji-source unicode="1F439" docomo="" kddi="" softbank="FBC4"/>
+      <emoji-source unicode="1F43A" docomo="" kddi="" softbank="FBCA"/>
+      <emoji-source unicode="1F43B" docomo="" kddi="F7F1" softbank="F992"/>
+      <emoji-source unicode="1F43C" docomo="" kddi="F44A" softbank=""/>
+      <emoji-source unicode="1F43D" docomo="" kddi="F44C" softbank=""/>
+      <emoji-source unicode="1F43E" docomo="" kddi="F6C7" softbank=""/>
+      <emoji-source unicode="1F440" docomo="F8F2" kddi="F7C1" softbank="FB59"/>
+      <emoji-source unicode="1F442" docomo="F8F3" kddi="F7C2" softbank="FB5B"/>
+      <emoji-source unicode="1F443" docomo="" kddi="F3A4" softbank="FB5A"/>
+      <emoji-source unicode="1F444" docomo="" kddi="F3A5" softbank="FB5C"/>
+      <emoji-source unicode="1F445" docomo="" kddi="F44B" softbank=""/>
+      <emoji-source unicode="1F446" docomo="" kddi="F360" softbank="F7CE"/>
+      <emoji-source unicode="1F447" docomo="" kddi="F361" softbank="F7CF"/>
+      <emoji-source unicode="1F448" docomo="" kddi="F6D8" softbank="F7D0"/>
+      <emoji-source unicode="1F449" docomo="" kddi="F6D9" softbank="F7D1"/>
+      <emoji-source unicode="1F44A" docomo="F9A2" kddi="F6CC" softbank="F94D"/>
+      <emoji-source unicode="1F44B" docomo="" kddi="F3AA" softbank="FB5E"/>
+      <emoji-source unicode="1F44C" docomo="" kddi="F3A8" softbank="FB60"/>
+      <emoji-source unicode="1F44D" docomo="F9CC" kddi="F6D2" softbank="F94E"/>
+      <emoji-source unicode="1F44E" docomo="" kddi="F3A9" softbank="FB61"/>
+      <emoji-source unicode="1F44F" docomo="" kddi="F3A7" softbank="FB5F"/>
+      <emoji-source unicode="1F450" docomo="" kddi="" softbank="FB62"/>
+      <emoji-source unicode="1F451" docomo="F9BF" kddi="F7F9" softbank="F74E"/>
+      <emoji-source unicode="1F452" docomo="" kddi="F371" softbank="F9B8"/>
+      <emoji-source unicode="1F453" docomo="F8FB" kddi="F6D7" softbank=""/>
+      <emoji-source unicode="1F454" docomo="" kddi="F366" softbank="F9A2"/>
+      <emoji-source unicode="1F455" docomo="F9B3" kddi="F7E6" softbank="F946"/>
+      <emoji-source unicode="1F456" docomo="F9B6" kddi="F47B" softbank=""/>
+      <emoji-source unicode="1F457" docomo="" kddi="F46F" softbank="F9B9"/>
+      <emoji-source unicode="1F458" docomo="" kddi="F376" softbank="F9C1"/>
+      <emoji-source unicode="1F459" docomo="" kddi="F377" softbank="F9C2"/>
+      <emoji-source unicode="1F45A" docomo="" kddi="F6E6" softbank=""/>
+      <emoji-source unicode="1F45B" docomo="F9B4" kddi="F6DD" softbank=""/>
+      <emoji-source unicode="1F45C" docomo="F8E3" kddi="F674" softbank="F9C3"/>
+      <emoji-source unicode="1F45D" docomo="F951" kddi="" softbank=""/>
+      <emoji-source unicode="1F45E" docomo="" kddi="F7E7" softbank=""/>
+      <emoji-source unicode="1F45F" docomo="F8FA" kddi="F3EC" softbank="F947"/>
+      <emoji-source unicode="1F460" docomo="F8D5" kddi="F6F3" softbank="F77E"/>
+      <emoji-source unicode="1F461" docomo="" kddi="" softbank="F9BA"/>
+      <emoji-source unicode="1F462" docomo="" kddi="F372" softbank="F9BB"/>
+      <emoji-source unicode="1F463" docomo="F8F9" kddi="F3EB" softbank="FBD6"/>
+      <emoji-source unicode="1F464" docomo="F955" kddi="" softbank=""/>
+      <emoji-source unicode="1F466" docomo="" kddi="" softbank="F941"/>
+      <emoji-source unicode="1F467" docomo="" kddi="" softbank="F942"/>
+      <emoji-source unicode="1F468" docomo="" kddi="F6D5" softbank="F944"/>
+      <emoji-source unicode="1F469" docomo="" kddi="F6D3" softbank="F945"/>
+      <emoji-source unicode="1F46A" docomo="" kddi="F6DA" softbank=""/>
+      <emoji-source unicode="1F46B" docomo="" kddi="" softbank="FB68"/>
+      <emoji-source unicode="1F46E" docomo="" kddi="F350" softbank="F793"/>
+      <emoji-source unicode="1F46F" docomo="" kddi="F3AF" softbank="FB69"/>
+      <emoji-source unicode="1F470" docomo="" kddi="F3BD" softbank=""/>
+      <emoji-source unicode="1F471" docomo="" kddi="F3D4" softbank="FBB5"/>
+      <emoji-source unicode="1F472" docomo="" kddi="F3D5" softbank="FBB6"/>
+      <emoji-source unicode="1F473" docomo="" kddi="F3D6" softbank="FBB7"/>
+      <emoji-source unicode="1F474" docomo="" kddi="F3D7" softbank="FBB8"/>
+      <emoji-source unicode="1F475" docomo="" kddi="F3D8" softbank="FBB9"/>
+      <emoji-source unicode="1F476" docomo="" kddi="F3D9" softbank="FBBA"/>
+      <emoji-source unicode="1F477" docomo="" kddi="F3DA" softbank="FBBB"/>
+      <emoji-source unicode="1F478" docomo="" kddi="F3DB" softbank="FBBC"/>
+      <emoji-source unicode="1F479" docomo="" kddi="F448" softbank=""/>
+      <emoji-source unicode="1F47A" docomo="" kddi="F449" softbank=""/>
+      <emoji-source unicode="1F47B" docomo="" kddi="F6A4" softbank="F75B"/>
+      <emoji-source unicode="1F47C" docomo="" kddi="F7EF" softbank="F98F"/>
+      <emoji-source unicode="1F47D" docomo="" kddi="F6E7" softbank="F74C"/>
+      <emoji-source unicode="1F47E" docomo="" kddi="F6C5" softbank="F76B"/>
+      <emoji-source unicode="1F47F" docomo="" kddi="F6C8" softbank="F75A"/>
+      <emoji-source unicode="1F480" docomo="" kddi="F6D1" softbank="F75C"/>
+      <emoji-source unicode="1F481" docomo="" kddi="" softbank="F7F3"/>
+      <emoji-source unicode="1F482" docomo="" kddi="" softbank="FBBE"/>
+      <emoji-source unicode="1F483" docomo="" kddi="F3DD" softbank="FBBF"/>
+      <emoji-source unicode="1F484" docomo="F9B5" kddi="F6E2" softbank="F9BC"/>
+      <emoji-source unicode="1F485" docomo="" kddi="F373" softbank="F9BD"/>
+      <emoji-source unicode="1F486" docomo="" kddi="F6E4" softbank="F9BE"/>
+      <emoji-source unicode="1F487" docomo="" kddi="F374" softbank="F9BF"/>
+      <emoji-source unicode="1F488" docomo="" kddi="F375" softbank="F9C0"/>
+      <emoji-source unicode="1F489" docomo="" kddi="F6E9" softbank="F77B"/>
+      <emoji-source unicode="1F48A" docomo="" kddi="F36D" softbank="F9AF"/>
+      <emoji-source unicode="1F48B" docomo="F99E" kddi="F6C4" softbank="F943"/>
+      <emoji-source unicode="1F48C" docomo="F9BC" kddi="F47C" softbank=""/>
+      <emoji-source unicode="1F48D" docomo="F9C0" kddi="F6ED" softbank="F974"/>
+      <emoji-source unicode="1F48E" docomo="" kddi="" softbank="F975"/>
+      <emoji-source unicode="1F48F" docomo="" kddi="F7FA" softbank="F751"/>
+      <emoji-source unicode="1F490" docomo="" kddi="F368" softbank="F9A6"/>
+      <emoji-source unicode="1F491" docomo="" kddi="F3AE" softbank="FB65"/>
+      <emoji-source unicode="1F492" docomo="" kddi="" softbank="FB7D"/>
+      <emoji-source unicode="1F493" docomo="F992" kddi="F479" softbank="F9C7"/>
+      <emoji-source unicode="1F494" docomo="F993" kddi="F64F" softbank="F963"/>
+      <emoji-source unicode="1F495" docomo="F994" kddi="F650" softbank=""/>
+      <emoji-source unicode="1F496" docomo="" kddi="F379" softbank=""/>
+      <emoji-source unicode="1F497" docomo="" kddi="" softbank="F9C8"/>
+      <emoji-source unicode="1F498" docomo="" kddi="F6C3" softbank="F9C9"/>
+      <emoji-source unicode="1F499" docomo="" kddi="F37A" softbank="F9CA"/>
+      <emoji-source unicode="1F49A" docomo="" kddi="F37B" softbank="F9CB"/>
+      <emoji-source unicode="1F49B" docomo="" kddi="F37C" softbank="F9CC"/>
+      <emoji-source unicode="1F49C" docomo="" kddi="F37D" softbank="F9CD"/>
+      <emoji-source unicode="1F49D" docomo="" kddi="F458" softbank="FB77"/>
+      <emoji-source unicode="1F49E" docomo="" kddi="F7CC" softbank=""/>
+      <emoji-source unicode="1F49F" docomo="" kddi="" softbank="F7A4"/>
+      <emoji-source unicode="1F4A0" docomo="F99D" kddi="" softbank=""/>
+      <emoji-source unicode="1F4A1" docomo="F9A0" kddi="F64E" softbank="F74F"/>
+      <emoji-source unicode="1F4A2" docomo="F9A1" kddi="F6BE" softbank="F9D4"/>
+      <emoji-source unicode="1F4A3" docomo="F9A3" kddi="F652" softbank="F9B1"/>
+      <emoji-source unicode="1F4A4" docomo="F9A6" kddi="F64D" softbank="F77C"/>
+      <emoji-source unicode="1F4A5" docomo="F9AA" kddi="F7CD" softbank=""/>
+      <emoji-source unicode="1F4A6" docomo="F9AB" kddi="F7CE" softbank="F9D1"/>
+      <emoji-source unicode="1F4A7" docomo="F9AC" kddi="F6BF" softbank=""/>
+      <emoji-source unicode="1F4A8" docomo="F9AD" kddi="F6CD" softbank="F9D0"/>
+      <emoji-source unicode="1F4A9" docomo="" kddi="F6CE" softbank="F99B"/>
+      <emoji-source unicode="1F4AA" docomo="" kddi="F6C2" softbank="F78D"/>
+      <emoji-source unicode="1F4AB" docomo="" kddi="F460" softbank=""/>
+      <emoji-source unicode="1F4AC" docomo="" kddi="F6D6" softbank=""/>
+      <emoji-source unicode="1F4AE" docomo="" kddi="F6C9" softbank=""/>
+      <emoji-source unicode="1F4AF" docomo="" kddi="F6CB" softbank=""/>
+      <emoji-source unicode="1F4B0" docomo="F9BA" kddi="F6A0" softbank="F76F"/>
+      <emoji-source unicode="1F4B1" docomo="" kddi="" softbank="F78A"/>
+      <emoji-source unicode="1F4B2" docomo="" kddi="F796" softbank=""/>
+      <emoji-source unicode="1F4B3" docomo="" kddi="F799" softbank=""/>
+      <emoji-source unicode="1F4B4" docomo="F97A" kddi="F79A" softbank=""/>
+      <emoji-source unicode="1F4B5" docomo="" kddi="F7A2" softbank=""/>
+      <emoji-source unicode="1F4B8" docomo="" kddi="F45F" softbank=""/>
+      <emoji-source unicode="1F4B9" docomo="" kddi="F34F" softbank="F78B"/>
+      <emoji-source unicode="1F4BA" docomo="F956" kddi="" softbank="F75F"/>
+      <emoji-source unicode="1F4BB" docomo="F9BB" kddi="F7E8" softbank="F94C"/>
+      <emoji-source unicode="1F4BC" docomo="" kddi="F341" softbank="F75E"/>
+      <emoji-source unicode="1F4BD" docomo="" kddi="F79F" softbank="F9B6"/>
+      <emoji-source unicode="1F4BE" docomo="" kddi="F77E" softbank=""/>
+      <emoji-source unicode="1F4BF" docomo="F8ED" kddi="F6E5" softbank="F766"/>
+      <emoji-source unicode="1F4C0" docomo="" kddi="" softbank="F767"/>
+      <emoji-source unicode="1F4C1" docomo="" kddi="F7AC" softbank=""/>
+      <emoji-source unicode="1F4C2" docomo="" kddi="F7AD" softbank=""/>
+      <emoji-source unicode="1F4C3" docomo="" kddi="F77D" softbank=""/>
+      <emoji-source unicode="1F4C4" docomo="" kddi="F786" softbank=""/>
+      <emoji-source unicode="1F4C5" docomo="" kddi="F780" softbank=""/>
+      <emoji-source unicode="1F4C6" docomo="" kddi="F787" softbank=""/>
+      <emoji-source unicode="1F4C7" docomo="" kddi="F789" softbank=""/>
+      <emoji-source unicode="1F4C8" docomo="" kddi="F792" softbank=""/>
+      <emoji-source unicode="1F4C9" docomo="" kddi="F793" softbank=""/>
+      <emoji-source unicode="1F4CA" docomo="" kddi="F791" softbank=""/>
+      <emoji-source unicode="1F4CB" docomo="" kddi="F781" softbank=""/>
+      <emoji-source unicode="1F4CC" docomo="" kddi="F78A" softbank=""/>
+      <emoji-source unicode="1F4CD" docomo="" kddi="F77C" softbank=""/>
+      <emoji-source unicode="1F4CE" docomo="F9D5" kddi="F678" softbank=""/>
+      <emoji-source unicode="1F4CF" docomo="" kddi="F78D" softbank=""/>
+      <emoji-source unicode="1F4D0" docomo="" kddi="F67A" softbank=""/>
+      <emoji-source unicode="1F4D1" docomo="" kddi="F7E2" softbank=""/>
+      <emoji-source unicode="1F4D2" docomo="" kddi="F78B" softbank=""/>
+      <emoji-source unicode="1F4D3" docomo="" kddi="F788" softbank=""/>
+      <emoji-source unicode="1F4D4" docomo="" kddi="F675" softbank=""/>
+      <emoji-source unicode="1F4D5" docomo="" kddi="F785" softbank=""/>
+      <emoji-source unicode="1F4D6" docomo="F8E4" kddi="F677" softbank="F789"/>
+      <emoji-source unicode="1F4D7" docomo="" kddi="F782" softbank=""/>
+      <emoji-source unicode="1F4D8" docomo="" kddi="F783" softbank=""/>
+      <emoji-source unicode="1F4D9" docomo="" kddi="F784" softbank=""/>
+      <emoji-source unicode="1F4DA" docomo="" kddi="F78C" softbank=""/>
+      <emoji-source unicode="1F4DB" docomo="" kddi="F6F6" softbank=""/>
+      <emoji-source unicode="1F4DC" docomo="" kddi="F77B" softbank=""/>
+      <emoji-source unicode="1F4DD" docomo="F8EA" kddi="F365" softbank="F9A1"/>
+      <emoji-source unicode="1F4DE" docomo="" kddi="F6F7" softbank=""/>
+      <emoji-source unicode="1F4DF" docomo="F8BB" kddi="F7B8" softbank=""/>
+      <emoji-source unicode="1F4E0" docomo="F974" kddi="F6F9" softbank="F94B"/>
+      <emoji-source unicode="1F4E1" docomo="" kddi="F681" softbank="F78C"/>
+      <emoji-source unicode="1F4E2" docomo="" kddi="" softbank="F783"/>
+      <emoji-source unicode="1F4E3" docomo="" kddi="" softbank="F9B7"/>
+      <emoji-source unicode="1F4E4" docomo="" kddi="F7AF" softbank=""/>
+      <emoji-source unicode="1F4E5" docomo="" kddi="F7B0" softbank=""/>
+      <emoji-source unicode="1F4E6" docomo="" kddi="F6F8" softbank=""/>
+      <emoji-source unicode="1F4E7" docomo="" kddi="F475" softbank=""/>
+      <emoji-source unicode="1F4E8" docomo="" kddi="F7AE" softbank=""/>
+      <emoji-source unicode="1F4E9" docomo="F973" kddi="F466" softbank="F743"/>
+      <emoji-source unicode="1F4EA" docomo="" kddi="F6F4" softbank=""/>
+      <emoji-source unicode="1F4EB" docomo="" kddi="F7E1" softbank="F741"/>
+      <emoji-source unicode="1F4EE" docomo="" kddi="" softbank="F742"/>
+      <emoji-source unicode="1F4F0" docomo="" kddi="F7A8" softbank=""/>
+      <emoji-source unicode="1F4F1" docomo="F8E9" kddi="F7A5" softbank="F94A"/>
+      <emoji-source unicode="1F4F2" docomo="F972" kddi="F7DF" softbank="F744"/>
+      <emoji-source unicode="1F4F3" docomo="" kddi="F363" softbank="F7F0"/>
+      <emoji-source unicode="1F4F4" docomo="" kddi="F364" softbank="F7F1"/>
+      <emoji-source unicode="1F4F6" docomo="" kddi="F357" softbank="F7AB"/>
+      <emoji-source unicode="1F4F7" docomo="F8E2" kddi="F6EE" softbank="F948"/>
+      <emoji-source unicode="1F4F9" docomo="" kddi="F79B" softbank=""/>
+      <emoji-source unicode="1F4FA" docomo="F8EB" kddi="F6DB" softbank="F76A"/>
+      <emoji-source unicode="1F4FB" docomo="" kddi="F7E9" softbank="F768"/>
+      <emoji-source unicode="1F4FC" docomo="" kddi="F79D" softbank="F769"/>
+      <emoji-source unicode="1F503" docomo="" kddi="F7E4" softbank=""/>
+      <emoji-source unicode="1F50A" docomo="" kddi="F6EA" softbank="F782"/>
+      <emoji-source unicode="1F50B" docomo="" kddi="F7A1" softbank=""/>
+      <emoji-source unicode="1F50C" docomo="" kddi="F7A6" softbank=""/>
+      <emoji-source unicode="1F50D" docomo="F981" kddi="F6F1" softbank="F754"/>
+      <emoji-source unicode="1F50E" docomo="" kddi="F7DC" softbank=""/>
+      <emoji-source unicode="1F50F" docomo="" kddi="F7E3" softbank=""/>
+      <emoji-source unicode="1F510" docomo="" kddi="F7D3" softbank=""/>
+      <emoji-source unicode="1F511" docomo="F97D" kddi="F6F2" softbank="F980"/>
+      <emoji-source unicode="1F512" docomo="" kddi="F6F5" softbank="F785"/>
+      <emoji-source unicode="1F513" docomo="" kddi="" softbank="F786"/>
+      <emoji-source unicode="1F514" docomo="F9B8" kddi="F6EB" softbank="F9C5"/>
+      <emoji-source unicode="1F516" docomo="" kddi="F7DE" softbank=""/>
+      <emoji-source unicode="1F517" docomo="" kddi="F7A7" softbank=""/>
+      <emoji-source unicode="1F518" docomo="" kddi="F7DB" softbank=""/>
+      <emoji-source unicode="1F519" docomo="" kddi="F7DD" softbank=""/>
+      <emoji-source unicode="1F51A" docomo="F95D" kddi="" softbank=""/>
+      <emoji-source unicode="1F51B" docomo="F95C" kddi="" softbank=""/>
+      <emoji-source unicode="1F51C" docomo="F95B" kddi="" softbank=""/>
+      <emoji-source unicode="1F51D" docomo="" kddi="" softbank="F7EC"/>
+      <emoji-source unicode="1F51E" docomo="" kddi="F356" softbank="F7A7"/>
+      <emoji-source unicode="1F51F" docomo="" kddi="F747" softbank=""/>
+      <emoji-source unicode="1F520" docomo="" kddi="F7D4" softbank=""/>
+      <emoji-source unicode="1F521" docomo="" kddi="F7D5" softbank=""/>
+      <emoji-source unicode="1F522" docomo="" kddi="F7D6" softbank=""/>
+      <emoji-source unicode="1F523" docomo="" kddi="F7D7" softbank=""/>
+      <emoji-source unicode="1F524" docomo="" kddi="F459" softbank=""/>
+      <emoji-source unicode="1F525" docomo="" kddi="F653" softbank="F75D"/>
+      <emoji-source unicode="1F526" docomo="" kddi="F7A0" softbank=""/>
+      <emoji-source unicode="1F527" docomo="F9BD" kddi="F7A4" softbank=""/>
+      <emoji-source unicode="1F528" docomo="" kddi="F7FB" softbank="F756"/>
+      <emoji-source unicode="1F529" docomo="" kddi="F79E" softbank=""/>
+      <emoji-source unicode="1F52A" docomo="" kddi="F79C" softbank=""/>
+      <emoji-source unicode="1F52B" docomo="" kddi="F6E3" softbank="F753"/>
+      <emoji-source unicode="1F52E" docomo="" kddi="F362" softbank=""/>
+      <emoji-source unicode="1F52F" docomo="" kddi="" softbank="F7DE"/>
+      <emoji-source unicode="1F530" docomo="" kddi="F658" softbank="F7A9"/>
+      <emoji-source unicode="1F531" docomo="" kddi="" softbank="F971"/>
+      <emoji-source unicode="1F532" docomo="" kddi="" softbank="F7BA"/>
+      <emoji-source unicode="1F533" docomo="" kddi="" softbank="F7BB"/>
+      <emoji-source unicode="1F534" docomo="" kddi="F766" softbank="F7B9"/>
+      <emoji-source unicode="1F535" docomo="" kddi="F767" softbank=""/>
+      <emoji-source unicode="1F536" docomo="" kddi="F762" softbank=""/>
+      <emoji-source unicode="1F537" docomo="" kddi="F763" softbank=""/>
+      <emoji-source unicode="1F538" docomo="" kddi="F752" softbank=""/>
+      <emoji-source unicode="1F539" docomo="" kddi="F753" softbank=""/>
+      <emoji-source unicode="1F53A" docomo="" kddi="F776" softbank=""/>
+      <emoji-source unicode="1F53B" docomo="" kddi="F777" softbank=""/>
+      <emoji-source unicode="1F53C" docomo="" kddi="F75F" softbank=""/>
+      <emoji-source unicode="1F53D" docomo="" kddi="F75E" softbank=""/>
+      <emoji-source unicode="1F550" docomo="" kddi="" softbank="F964"/>
+      <emoji-source unicode="1F551" docomo="" kddi="" softbank="F965"/>
+      <emoji-source unicode="1F552" docomo="" kddi="" softbank="F966"/>
+      <emoji-source unicode="1F553" docomo="" kddi="" softbank="F967"/>
+      <emoji-source unicode="1F554" docomo="" kddi="" softbank="F968"/>
+      <emoji-source unicode="1F555" docomo="" kddi="" softbank="F969"/>
+      <emoji-source unicode="1F556" docomo="" kddi="" softbank="F96A"/>
+      <emoji-source unicode="1F557" docomo="" kddi="" softbank="F96B"/>
+      <emoji-source unicode="1F558" docomo="" kddi="" softbank="F96C"/>
+      <emoji-source unicode="1F559" docomo="" kddi="" softbank="F96D"/>
+      <emoji-source unicode="1F55A" docomo="" kddi="" softbank="F96E"/>
+      <emoji-source unicode="1F55B" docomo="" kddi="" softbank="F96F"/>
+      <emoji-source unicode="1F5FB" docomo="F9E5" kddi="F7ED" softbank="F97B"/>
+      <emoji-source unicode="1F5FC" docomo="" kddi="F699" softbank="FBA9"/>
+      <emoji-source unicode="1F5FD" docomo="" kddi="" softbank="FBBD"/>
+      <emoji-source unicode="1F5FE" docomo="" kddi="F78F" softbank=""/>
+      <emoji-source unicode="1F5FF" docomo="" kddi="F470" softbank=""/>
+      <emoji-source unicode="1F601" docomo="F9F8" kddi="F485" softbank="FB44"/>
+      <emoji-source unicode="1F602" docomo="" kddi="F468" softbank="FB52"/>
+      <emoji-source unicode="1F603" docomo="F995" kddi="F649" softbank="F998"/>
+      <emoji-source unicode="1F604" docomo="" kddi="" softbank="FB55"/>
+      <emoji-source unicode="1F605" docomo="F9C7" kddi="" softbank=""/>
+      <emoji-source unicode="1F606" docomo="F9CF" kddi="" softbank=""/>
+      <emoji-source unicode="1F609" docomo="F9CE" kddi="F7F3" softbank="FB45"/>
+      <emoji-source unicode="1F60A" docomo="" kddi="F3A1" softbank="F997"/>
+      <emoji-source unicode="1F60B" docomo="F9F7" kddi="" softbank=""/>
+      <emoji-source unicode="1F60C" docomo="F9C6" kddi="F399" softbank="FB4A"/>
+      <emoji-source unicode="1F60D" docomo="F9CB" kddi="F7F4" softbank="F746"/>
+      <emoji-source unicode="1F60F" docomo="F9D1" kddi="F393" softbank="FB42"/>
+      <emoji-source unicode="1F612" docomo="F9CA" kddi="F39D" softbank="FB4E"/>
+      <emoji-source unicode="1F613" docomo="F9C8" kddi="F7F6" softbank="F748"/>
+      <emoji-source unicode="1F614" docomo="F9C5" kddi="F394" softbank="FB43"/>
+      <emoji-source unicode="1F616" docomo="F998" kddi="F397" softbank="FB47"/>
+      <emoji-source unicode="1F618" docomo="" kddi="F3A3" softbank="FB58"/>
+      <emoji-source unicode="1F61A" docomo="" kddi="F3A2" softbank="FB57"/>
+      <emoji-source unicode="1F61C" docomo="F9CD" kddi="F6C0" softbank="F745"/>
+      <emoji-source unicode="1F61D" docomo="" kddi="" softbank="FB49"/>
+      <emoji-source unicode="1F61E" docomo="F997" kddi="" softbank="F999"/>
+      <emoji-source unicode="1F620" docomo="F996" kddi="F64A" softbank="F99A"/>
+      <emoji-source unicode="1F621" docomo="F9C9" kddi="F461" softbank="FB56"/>
+      <emoji-source unicode="1F622" docomo="F9D3" kddi="F46D" softbank="FB53"/>
+      <emoji-source unicode="1F623" docomo="F9D0" kddi="F396" softbank="FB46"/>
+      <emoji-source unicode="1F624" docomo="" kddi="F395" softbank=""/>
+      <emoji-source unicode="1F625" docomo="" kddi="" softbank="FB41"/>
+      <emoji-source unicode="1F628" docomo="" kddi="F39A" softbank="FB4B"/>
+      <emoji-source unicode="1F629" docomo="" kddi="F46B" softbank=""/>
+      <emoji-source unicode="1F62A" docomo="" kddi="F398" softbank="FB48"/>
+      <emoji-source unicode="1F62B" docomo="" kddi="F64C" softbank=""/>
+      <emoji-source unicode="1F62D" docomo="F9D2" kddi="F64B" softbank="FB51"/>
+      <emoji-source unicode="1F630" docomo="" kddi="F39F" softbank="FB4F"/>
+      <emoji-source unicode="1F631" docomo="F9FC" kddi="F7F5" softbank="F747"/>
+      <emoji-source unicode="1F632" docomo="" kddi="F39E" softbank="FB50"/>
+      <emoji-source unicode="1F633" docomo="" kddi="F39C" softbank="FB4D"/>
+      <emoji-source unicode="1F635" docomo="F999" kddi="F7CB" softbank=""/>
+      <emoji-source unicode="1F637" docomo="" kddi="F39B" softbank="FB4C"/>
+      <emoji-source unicode="1F638" docomo="" kddi="F484" softbank=""/>
+      <emoji-source unicode="1F639" docomo="" kddi="F467" softbank=""/>
+      <emoji-source unicode="1F63A" docomo="" kddi="F465" softbank=""/>
+      <emoji-source unicode="1F63B" docomo="" kddi="F469" softbank=""/>
+      <emoji-source unicode="1F63C" docomo="" kddi="F46E" softbank=""/>
+      <emoji-source unicode="1F63D" docomo="" kddi="F464" softbank=""/>
+      <emoji-source unicode="1F63E" docomo="" kddi="F462" softbank=""/>
+      <emoji-source unicode="1F63F" docomo="" kddi="F46C" softbank=""/>
+      <emoji-source unicode="1F640" docomo="" kddi="F46A" softbank=""/>
+      <emoji-source unicode="1F645" docomo="" kddi="F3AB" softbank="FB63"/>
+      <emoji-source unicode="1F646" docomo="" kddi="F3AC" softbank="FB64"/>
+      <emoji-source unicode="1F647" docomo="" kddi="F3AD" softbank="FB66"/>
+      <emoji-source unicode="1F648" docomo="" kddi="F454" softbank=""/>
+      <emoji-source unicode="1F649" docomo="" kddi="F456" softbank=""/>
+      <emoji-source unicode="1F64A" docomo="" kddi="F455" softbank=""/>
+      <emoji-source unicode="1F64B" docomo="" kddi="F48A" softbank=""/>
+      <emoji-source unicode="1F64C" docomo="" kddi="F48B" softbank="FB67"/>
+      <emoji-source unicode="1F64D" docomo="" kddi="F48C" softbank=""/>
+      <emoji-source unicode="1F64E" docomo="" kddi="F48D" softbank=""/>
+      <emoji-source unicode="1F64F" docomo="" kddi="F3A6" softbank="FB5D"/>
+      <emoji-source unicode="1F680" docomo="" kddi="F7F8" softbank="F74D"/>
+      <emoji-source unicode="1F683" docomo="F8BC" kddi="F68E" softbank="F95E"/>
+      <emoji-source unicode="1F684" docomo="F8BE" kddi="" softbank="FB75"/>
+      <emoji-source unicode="1F685" docomo="" kddi="F689" softbank="F95F"/>
+      <emoji-source unicode="1F687" docomo="" kddi="F7EC" softbank="FB74"/>
+      <emoji-source unicode="1F689" docomo="" kddi="F471" softbank="F979"/>
+      <emoji-source unicode="1F68C" docomo="F8C1" kddi="F688" softbank="F79A"/>
+      <emoji-source unicode="1F68F" docomo="" kddi="F680" softbank="F791"/>
+      <emoji-source unicode="1F691" docomo="" kddi="F3B4" softbank="FB71"/>
+      <emoji-source unicode="1F692" docomo="" kddi="F3B3" softbank="FB70"/>
+      <emoji-source unicode="1F693" docomo="" kddi="F3B5" softbank="FB72"/>
+      <emoji-source unicode="1F695" docomo="" kddi="" softbank="F79B"/>
+      <emoji-source unicode="1F697" docomo="F8BF" kddi="F68A" softbank="F95B"/>
+      <emoji-source unicode="1F699" docomo="F8C0" kddi="" softbank="FB6E"/>
+      <emoji-source unicode="1F69A" docomo="" kddi="F68B" softbank="FB6F"/>
+      <emoji-source unicode="1F6A2" docomo="F8C2" kddi="F355" softbank="F7A2"/>
+      <emoji-source unicode="1F6A4" docomo="" kddi="" softbank="F775"/>
+      <emoji-source unicode="1F6A5" docomo="F8CE" kddi="F642" softbank="F78F"/>
+      <emoji-source unicode="1F6A7" docomo="" kddi="F34A" softbank="F777"/>
+      <emoji-source unicode="1F6A8" docomo="" kddi="F477" softbank=""/>
+      <emoji-source unicode="1F6A9" docomo="F983" kddi="F3ED" softbank=""/>
+      <emoji-source unicode="1F6AA" docomo="F9B9" kddi="" softbank=""/>
+      <emoji-source unicode="1F6AB" docomo="" kddi="F75D" softbank=""/>
+      <emoji-source unicode="1F6AC" docomo="F8E0" kddi="F655" softbank="F9AE"/>
+      <emoji-source unicode="1F6AD" docomo="F8E1" kddi="F656" softbank="F7A8"/>
+      <emoji-source unicode="1F6B2" docomo="F9C2" kddi="F687" softbank="F776"/>
+      <emoji-source unicode="1F6B6" docomo="" kddi="F476" softbank="F7A1"/>
+      <emoji-source unicode="1F6B9" docomo="" kddi="" softbank="F778"/>
+      <emoji-source unicode="1F6BA" docomo="" kddi="" softbank="F779"/>
+      <emoji-source unicode="1F6BB" docomo="F8CF" kddi="F67D" softbank="F792"/>
+      <emoji-source unicode="1F6BC" docomo="" kddi="" softbank="F77A"/>
+      <emoji-source unicode="1F6BD" docomo="" kddi="" softbank="F781"/>
+      <emoji-source unicode="1F6BE" docomo="" kddi="" softbank="F9A9"/>
+      <emoji-source unicode="1F6C0" docomo="" kddi="F34B" softbank="F780"/>
+   </emoji-sources>
+</ucd>
