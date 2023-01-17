@@ -5,18 +5,17 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Serialization;
 
-namespace UnicodeData
+namespace UnicodeData;
+
+[XmlRoot(ElementName = "standardized-variant")]
+public class StandardizedVariantObj
 {
-    [XmlRoot(ElementName = "standardized-variant")]
-    public class StandardizedVariantObj
-    {
-        [XmlAttribute(AttributeName = "cps")]
-        public string? Cps { get; set; }
+    [XmlAttribute(AttributeName = "cps")]
+    public string? Cps { get; set; }
 
-        [XmlAttribute(AttributeName = "desc")]
-        public string? Desc { get; set; }
+    [XmlAttribute(AttributeName = "desc")]
+    public string? Desc { get; set; }
 
-        [XmlAttribute(AttributeName = "when")]
-        public string? When { get; set; }
-    }
+    [XmlAttribute(AttributeName = "when")]
+    public string? When { get; set; }
 }

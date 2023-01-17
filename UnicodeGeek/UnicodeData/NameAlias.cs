@@ -5,15 +5,14 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Serialization;
 
-namespace UnicodeData
-{
-    [XmlRoot(ElementName = "name-alias")]
-    public class NameAlias
-    {
-        [XmlAttribute(AttributeName = "alias")]
-        public string? Alias { get; set; }
+namespace UnicodeData;
 
-        [XmlAttribute(AttributeName = "type")]
-        public string? Type { get; set; }
-    }
+[XmlRoot(ElementName = "name-alias")]
+public class NameAlias
+{
+    [XmlAttribute(AttributeName = "alias")]
+    public string? Alias { get; set; }
+
+    [XmlAttribute(AttributeName = "type")]
+    public string? Type { get; set; }
 }

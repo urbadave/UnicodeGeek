@@ -1,15 +1,23 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using RelevantUnicode;
 using System.Xml.Serialization;
 using UnicodeData;
 
 Console.WriteLine("XML Stuff");
 
 //"C:\Users\18275\source\repos\UnicodeGeek\Data\SerializeTest1.xml"
-XmlSerializer xmlSerializer = new XmlSerializer(typeof(UcdObj));
 
 using (StreamReader xmlReader = new StreamReader(@"C:\Users\18275\source\repos\UnicodeGeek\Data\ucd.all.grouped\ucd.all.grouped.xml"))
 {
-    UcdObj thing = (UcdObj)xmlSerializer.Deserialize(xmlReader);
+    XmlSerializer xmlSerializer = new XmlSerializer(typeof(UcdObj));
+    var ucdDatabase = (UcdObj)xmlSerializer.Deserialize(xmlReader);
 
-    var thing1 = thing;
+    Console.WriteLine($"Database has {ucdDatabase.Repertoire.Count} groups");
+
+    List<GroupDTO> GroupDTOs = new(ucdDatabase.Repertoire.Select(g => new GroupDTO(g)));
+    GroupDTOs = GroupDTOs.Where(g => g.FirstCP != null && g.FirstCP.Length < 5).ToList();
+
+    Console.WriteLine($"GroupDTOs has {GroupDTOs.Count} relevant groups");
 }
+
+

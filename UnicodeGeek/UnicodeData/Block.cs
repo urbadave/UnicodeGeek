@@ -5,18 +5,17 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Serialization;
 
-namespace UnicodeData
+namespace UnicodeData;
+
+[XmlRoot(ElementName = "block")]
+public class Block
 {
-    [XmlRoot(ElementName = "block")]
-    public class Block
-    {
-        [XmlAttribute(AttributeName = "first-cp")]
-        public string? FirstCp { get; set; }
+    [XmlAttribute(AttributeName = "first-cp")]
+    public string? FirstCp { get; set; }
 
-        [XmlAttribute(AttributeName = "last-cp")]
-        public string? LastCp { get; set; }
+    [XmlAttribute(AttributeName = "last-cp")]
+    public string? LastCp { get; set; }
 
-        [XmlAttribute(AttributeName = "name")]
-        public string? Name { get; set; }
-    }
+    [XmlAttribute(AttributeName = "name")]
+    public string? Name { get; set; }
 }
