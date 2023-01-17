@@ -15,7 +15,10 @@ using (StreamReader xmlReader = new StreamReader(@"C:\Users\18275\source\repos\U
     Console.WriteLine($"Database has {ucdDatabase.Repertoire.Count} groups");
 
     List<GroupDTO> GroupDTOs = new(ucdDatabase.Repertoire.Select(g => new GroupDTO(g)));
+    List<BlockDTO> BlockDTOs = new(ucdDatabase.Blocks.Select(b => new BlockDTO(b)));
+
     GroupDTOs = GroupDTOs.Where(g => g.FirstCP != null && g.FirstCP.Length < 5).ToList();
+    GroupDTOs.ForEach(g => g.FillName(BlockDTOs));
 
     Console.WriteLine($"GroupDTOs has {GroupDTOs.Count} relevant groups");
 }

@@ -1,11 +1,14 @@
-﻿using UnicodeData;
+﻿using System.Diagnostics;
+using UnicodeData;
 
 namespace RelevantUnicode;
 
+[DebuggerDisplay("{FirstCP}-{LastCP}: {Name}")]
 public class GroupDTO
 {
     public string? FirstCP { get; set; }
     public string? LastCP { get; set; }
+    public string? Name { get; set; }
 
     public List<CharacterDTO> CharacterDTOs { get; set; }
 
@@ -22,6 +25,16 @@ public class GroupDTO
             CharacterDTOs.Sort();
             FirstCP = CharacterDTOs.First()?.CP;
             LastCP = CharacterDTOs.Last()?.CP;
+        }
+    }
+
+    public void FillName(List<BlockDTO> blocks)
+    {
+        if(blocks != null)
+        {
+            var foundBlock = blocks.FirstOrDefault(b => b.IsInRangs(FirstCP, LastCP));
+            if(foundBlock != null)
+                Name = foundBlock.Name;
         }
     }
 }
