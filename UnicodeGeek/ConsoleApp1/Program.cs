@@ -7,8 +7,9 @@ Console.WriteLine("XML Stuff");
 
 //"C:\Users\18275\source\repos\UnicodeGeek\Data\SerializeTest1.xml"
 
-//string fileName = @"C:\Users\18275\source\repos\UnicodeGeek\Data\ucd.all.grouped\ucd.all.grouped.xml";
-string fileName = @"C:\Users\urban\source\repos\UnicodeGeek\Data\ucd.all.grouped\ucd.all.grouped.xml";
+string fileName = @"C:\Users\18275\source\repos\UnicodeGeek\Data\ucd.all.grouped\ucd.all.grouped.xml";
+string outFileName = @"C:\UnicodeGeek\CharacterDtos.txt";
+//string fileName = @"C:\Users\urban\source\repos\UnicodeGeek\Data\ucd.all.grouped\ucd.all.grouped.xml";
 
 using (StreamReader xmlReader = new StreamReader(fileName))
 {
@@ -24,6 +25,18 @@ using (StreamReader xmlReader = new StreamReader(fileName))
     GroupDTOs.ForEach(g => g.FillName(BlockDTOs));
 
     Console.WriteLine($"GroupDTOs has {GroupDTOs.Count} relevant groups");
+
+    List<string> fileLines = new();
+    foreach(var g in GroupDTOs)
+    {
+        fileLines.Add($"{g.Name}: {g.FirstCP}-{g.LastCP}");
+        foreach(var c in g.CharacterDTOs)
+        {
+            fileLines.Add($"  {c}");
+        }
+    }
+    var fileText = string.Join("\n", fileLines);
+    File.WriteAllText(outFileName, fileText);
 }
 
 

@@ -33,7 +33,7 @@ public class CharacterDTO: IComparable<CharacterDTO>
     {
         if(source == null) return null;
 
-        var useName = source.Na1;
+        var useName = (source.Na != null) ? source.Na : source.Na1;
         if(source.NameAlias != null && source.NameAlias.Any())
         {
             foreach(var na in source.NameAlias)
@@ -57,6 +57,19 @@ public class CharacterDTO: IComparable<CharacterDTO>
             return $"{intVal}";
         }
         return null;
+    }
+
+    public override string ToString()
+    {
+        var rep = " ";
+        if (Rep != null)
+        {
+            if (string.IsNullOrWhiteSpace(Rep))
+                rep = " ";
+            else
+                rep = Rep;
+        }
+        return $"{CP} {rep} {Name}";
     }
 
     public int CompareTo(CharacterDTO? other)

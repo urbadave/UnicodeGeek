@@ -16,6 +16,9 @@ public class CharObj
     [XmlAttribute(AttributeName = "cp")]
     public string? Cp { get; set; }
 
+    [XmlAttribute(AttributeName = "na")]
+    public string? Na { get; set; }
+
     [XmlAttribute(AttributeName = "na1")]
     public string? Na1 { get; set; }
 
