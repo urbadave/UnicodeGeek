@@ -7,7 +7,10 @@ Console.WriteLine("XML Stuff");
 
 //"C:\Users\18275\source\repos\UnicodeGeek\Data\SerializeTest1.xml"
 
-using (StreamReader xmlReader = new StreamReader(@"C:\Users\18275\source\repos\UnicodeGeek\Data\ucd.all.grouped\ucd.all.grouped.xml"))
+//string fileName = @"C:\Users\18275\source\repos\UnicodeGeek\Data\ucd.all.grouped\ucd.all.grouped.xml";
+string fileName = @"C:\Users\urban\source\repos\UnicodeGeek\Data\ucd.all.grouped\ucd.all.grouped.xml";
+
+using (StreamReader xmlReader = new StreamReader(fileName))
 {
     XmlSerializer xmlSerializer = new XmlSerializer(typeof(UcdObj));
     var ucdDatabase = (UcdObj)xmlSerializer.Deserialize(xmlReader);
