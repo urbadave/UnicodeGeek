@@ -61,6 +61,9 @@ public class CharacterDTO: IComparable<CharacterDTO>
 
     public override string ToString()
     {
+        var hex = $"0x{CP}";
+        var intVal = Convert.ToInt32(hex, 16);
+
         var rep = " ";
         if (Rep != null)
         {
@@ -69,7 +72,7 @@ public class CharacterDTO: IComparable<CharacterDTO>
             else
                 rep = Rep;
         }
-        return $"{CP} {rep} {Name}";
+        return $"{intVal} {CP} {rep} {Name}";
     }
 
     public int CompareTo(CharacterDTO? other)

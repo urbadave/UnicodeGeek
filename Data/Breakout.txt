@@ -1,0 +1,1006 @@
+Ignore
+Latin-1 Supplement: 0080-009F
+Latin-1 Supplement: 00A0-00FF
+IPA Extensions: 0250-02AF
+Spacing Modifier Letters: 02B0-02FF
+Combining Diacritical Marks: 0300-036F
+Cyrillic: 0400-04FF
+Cyrillic Supplement: 0500-052F
+Armenian: 0531-058F
+Hebrew: 0591-05F4
+Arabic: 0600-06FF
+Syriac: 0700-074F
+Arabic Supplement: 0750-077F
+Thaana: 0780-07B1
+NKo: 07C0-07FF
+Samaritan: 0800-083E
+Mandaic: 0840-085E
+Syriac Supplement: 0860-086A
+Arabic Extended-B: 0870-089F
+Arabic Extended-A: 08A0-08FF
+Devanagari: 0900-097F
+Bengali: 0980-09FE
+Gurmukhi: 0A01-0A76
+Gujarati: 0A81-0AFF
+Oriya: 0B01-0B77
+Tamil: 0B82-0BFA
+Telugu: 0C00-0C7F
+Kannada: 0C80-0CF2
+Malayalam: 0D00-0D7F
+Sinhala: 0D81-0DF4
+Thai: 0E01-0E5B
+Lao: 0E81-0EDF
+Tibetan: 0F00-0FDA
+Myanmar: 1000-109F
+Georgian: 10A0-10FF
+Hangul Jamo: 1100-115F
+Hangul Jamo: 1160-11A7
+Hangul Jamo: 11A8-11FF
+Ethiopic: 1200-137C
+Ethiopic Supplement: 1380-1399
+Cherokee: 13A0-13FD
+Unified Canadian Aboriginal Syllabics: 1400-167F
+Ogham: 1680-169C
+Runic: 16A0-16F8
+Tagalog: 1700-171F
+Hanunoo: 1720-1736
+Buhid: 1740-1753
+Tagbanwa: 1760-1773
+Khmer: 1780-17F9
+Mongolian: 1800-18AA
+Unified Canadian Aboriginal Syllabics Extended: 18B0-18F5
+Limbu: 1900-194F
+Tai Le: 1950-1974
+New Tai Lue: 1980-19DF
+Khmer Symbols: 19E0-19FF
+Buginese: 1A00-1A1F
+Tai Tham: 1A20-1AAD
+Combining Diacritical Marks Extended: 1AB0-1ACE
+Balinese: 1B00-1B7E
+Sundanese: 1B80-1BBF
+Batak: 1BC0-1BFF
+Lepcha: 1C00-1C4F
+Ol Chiki: 1C50-1C7F
+Cyrillic Extended-C: 1C80-1C88
+Georgian Extended: 1C90-1CBF
+Sundanese Supplement: 1CC0-1CC7
+Vedic Extensions: 1CD0-1CFA
+Phonetic Extensions: 1D00-1D7F
+Phonetic Extensions Supplement: 1D80-1DBF
+Combining Diacritical Marks Supplement: 1DC0-1DFF
+Greek Extended: 1F00-1FFE
+Currency Symbols: 20A0-20C0
+Combining Diacritical Marks for Symbols: 20D0-20F0
+Letterlike Symbols: 2100-214F
+Number Forms: 2150-218B
+Arrows: 2190-21FF
+Mathematical Operators: 2200-22FF
+Miscellaneous Technical: 2300-23FF
+Control Pictures: 2400-2426
+Optical Character Recognition: 2440-244A
+Enclosed Alphanumerics: 2460-24FF
+Box Drawing: 2500-257F
+Block Elements: 2580-259F
+Geometric Shapes: 25A0-25FF
+Miscellaneous Symbols: 2600-26FF
+Dingbats: 2700-27BF
+Miscellaneous Mathematical Symbols-A: 27C0-27EF
+Supplemental Arrows-A: 27F0-27FF
+Braille Patterns: 2800-28FF
+Supplemental Arrows-B: 2900-297F
+Miscellaneous Mathematical Symbols-B: 2980-29FF
+Supplemental Mathematical Operators: 2A00-2AFF
+Miscellaneous Symbols and Arrows: 2B00-2BFF
+Glagolitic: 2C00-2C5F
+Coptic: 2C80-2CFF
+Georgian Supplement: 2D00-2D2D
+Tifinagh: 2D30-2D7F
+Ethiopic Extended: 2D80-2DDE
+Cyrillic Extended-A: 2DE0-2DFF
+Supplemental Punctuation: 2E00-2E5D
+CJK Radicals Supplement: 2E80-2EF3
+Kangxi Radicals: 2F00-2FD5
+Ideographic Description Characters: 2FF0-2FFB
+CJK Symbols and Punctuation: 3000-303F
+Hiragana: 3041-309F
+Katakana: 30A0-30FF
+Bopomofo: 3105-312F
+Hangul Compatibility Jamo: 3131-318E
+Kanbun: 3190-319F
+Bopomofo Extended: 31A0-31BF
+CJK Strokes: 31C0-31E3
+Katakana Phonetic Extensions: 31F0-31FF
+Enclosed CJK Letters and Months: 3200-32FF
+CJK Compatibility: 3300-33FF
+CJK Unified Ideographs Extension A: 3400-4DBF
+Yijing Hexagram Symbols: 4DC0-4DFF
+CJK Unified Ideographs: 4E00-9FFF
+Yi Syllables: A000-A48C
+Yi Radicals: A490-A4C6
+Lisu: A4D0-A4FF
+Vai: A500-A62B
+Cyrillic Extended-B: A640-A69F
+Bamum: A6A0-A6F7
+Modifier Tone Letters: A700-A71F
+Latin Extended-D: A720-A7FF
+Syloti Nagri: A800-A82C
+Common Indic Number Forms: A830-A839
+Phags-pa: A840-A877
+Saurashtra: A880-A8D9
+Devanagari Extended: A8E0-A8FF
+Kayah Li: A900-A92F
+Rejang: A930-A95F
+Hangul Jamo Extended-A: A960-A97C
+Javanese: A980-A9DF
+Myanmar Extended-B: A9E0-A9FE
+Cham: AA00-AA5F
+Myanmar Extended-A: AA60-AA7F
+Tai Viet: AA80-AADF
+Meetei Mayek Extensions: AAE0-AAF6
+Ethiopic Extended-A: AB01-AB2E
+Latin Extended-E: AB30-AB6B
+Cherokee Supplement: AB70-ABBF
+Meetei Mayek: ABC0-ABF9
+Hangul Syllables: AC00-D7A3
+Hangul Jamo Extended-B: D7B0-D7FB
+CJK Compatibility Ideographs: F900-FAD9
+Alphabetic Presentation Forms: FB00-FB4F
+Arabic Presentation Forms-A: FB50-FDFF
+Variation Selectors: FE00-FE0F
+Vertical Forms: FE10-FE19
+Combining Half Marks: FE20-FE2F
+CJK Compatibility Forms: FE30-FE4F
+Small Form Variants: FE50-FE6B
+Arabic Presentation Forms-B: FE70-FEFF
+Halfwidth and Fullwidth Forms: FF01-FFEE
+Specials: FFF9-FFFD
+
+
+Keep
+Basic Latin: 0000-001F
+10
+13
+Basic Latin: 0020-007F
+32-126
+
+
+Swap
+Latin-1 Supplement: 00A0-00FF
+178 2
+179 3
+188 1/4
+189 1/2
+190 3/4
+193 A
+194 A
+195 A
+196 Ae
+197 A
+198 AE
+199 C
+200 E
+201 E
+202 E
+203 E
+204 I
+205 I
+206 I
+207 I
+208 D
+209 N
+210 O
+211 O
+212 O
+213 O
+214 Oe
+215 x
+216 O
+217 U
+218 U
+219 U
+220 Ue
+222 Th
+223 ss
+224 a
+225 a
+226 a
+227 a
+228 ae
+229 a
+230 ae
+231 c
+232 e
+233 e
+234 e
+235 e
+236 i
+237 i
+238 i
+239 i
+240 d
+241 n
+242 o
+243 o
+244 o
+245 o
+246 oe
+247 /
+248 o
+249 u
+250 u
+251 u
+252 ue
+253 y
+254 th
+255 y
+Latin Extended-A: 0100-017F
+256 A
+257 a
+258 A
+259 a
+260 A
+261 a
+262 C
+263 c
+264 C
+265 c
+266 C
+267 c
+268 C
+269 c
+270 D
+271 d
+272 D
+273 d
+274 E
+275 e
+276 E
+277 e
+278 E
+279 e
+280 E
+281 e
+282 E
+283 e
+284 G
+285 g
+286 G
+287 g
+288 G
+289 g
+290 G
+291 g
+292 H
+293 h
+294 H
+295 h
+296 I
+297 i
+298 I
+299 i
+300 I
+301 i
+302 I
+303 i
+304 I
+305 i
+306 IJ
+307 ij
+308 J
+309 j
+310 K
+311 k
+312 k
+313 L
+314 l
+315 L
+316 l
+317 L
+318 l
+319 L
+320 l
+321 L
+322 l
+323 N
+324 n
+325 N
+326 n
+327 N
+328 n
+329 n
+330 N
+331 n
+332 O
+333 o
+334 O
+335 o
+336 O
+337 o
+338 OE
+339 oe
+340 R
+341 r
+342 R
+343 r
+344 R
+345 r
+346 S
+347 s
+348 S
+349 s
+350 S
+351 s
+352 S
+353 s
+354 T
+355 t
+356 T
+357 t
+358 T
+359 t
+360 U
+361 u
+362 U
+363 u
+364 U
+365 u
+366 U
+367 u
+368 U
+369 u
+370 U
+371 u
+372 W
+373 w
+374 Y
+375 y
+376 Y
+377 Z
+378 z
+379 Z
+380 z
+381 Z
+382 z
+383 ss
+Latin Extended-B: 0180-024F
+384 b
+385 B
+386 B
+387 b
+388 B
+389 b
+391 C
+392 c
+393 D
+394 D
+395 D
+396 d
+398 E
+400 E
+401 F
+402 f
+403 G
+404 GAMMA
+405 hv
+406 IOTA
+407 I
+408 K
+409 K
+410 l
+411 lambda
+412 M
+413 N
+414 n
+415 O
+416 O
+417 o
+418 OI
+419 oi
+420 P
+421 p
+422 YR
+427 t
+428 T
+429 t
+430 T
+431 U
+432 u
+433 UPSILON
+434 V
+435 Y
+436 y
+437 Z
+438 z
+452 DZ
+453 Dz
+454 dz
+455 LJ
+456 Lj
+457 lj
+458 NJ
+459 Nj
+460 nj
+461 A
+462 a
+463 I
+464 i
+465 O
+466 o
+467 U
+468 u
+469 U
+470 u
+471 U
+472 u
+473 U
+474 u
+475 U
+476 u
+477 e
+478 A
+479 a
+480 A
+481 a
+482 AE
+483 ae
+484 G
+485 g
+486 G
+487 g
+488 K
+489 k
+490 O
+491 o
+492 O
+493 o
+496 j
+497 DZ
+498 Dz
+499 dz
+500 G
+501 g
+504 N
+505 n
+506 A
+507 a
+508 AE
+509 ae
+510 O
+511 o
+512 A
+513 a
+514 A
+515 a
+516 E
+517 e
+518 E
+519 e
+520 I
+521 i
+522 I
+523 i
+524 O
+525 o
+526 O
+527 o
+528 R
+529 r
+530 R
+531 r
+532 U
+533 u
+534 U
+535 u
+536 S
+537 s
+538 T
+539 t
+542 H
+543 h
+544 N
+545 d
+546 OU
+547 ou
+548 Z
+549 z
+550 A
+551 a
+552 E
+553 e
+554 O
+555 o
+556 O
+557 o
+558 O
+559 o
+560 O
+561 o
+562 Y
+563 y
+564 l
+565 n
+566 t
+567 j
+570 A
+571 C
+572 c
+573 L
+574 T
+575 s
+576 Z
+579 B
+580 U
+581 V
+582 E
+583 e
+584 J
+585 j
+586 q
+587 q
+588 R
+589 r
+590 Y
+591 y
+Greek and Coptic: 0370-03FF
+913 ALPHA
+914 BETA
+915 GAMMA
+916 DELTA
+917 EPSILON
+918 ZETA
+919 ETA
+920 THETA
+921 IOTA
+922 KAPPA
+923 LAMDA
+924 MU
+925 NU
+926 XI
+927 OMICRON
+928 PI
+929 RHO
+931 SIGMA
+932 TAU
+933 UPSILON
+934 PHI
+935 CHI
+936 PSI
+937 OMEGA
+945 alpha
+946 beta
+947 gamma
+948 delta
+949 epsilon
+950 zeta
+951 eta
+952 theta
+953 iota
+954 kappa
+955 lambda
+956 mu
+957 nu
+958 xi
+959 omicron
+960 pi
+961 rho
+962 sigma
+963 sigma
+964 tau
+965 upsilon
+966 phi
+967 chi
+968 psi
+969 omega
+975 KAI
+976 BETA
+977 THETA
+981 PHI
+982 PI
+983 KAI
+990 KOPPA
+991 koppa
+992 SAMPI
+993 sampi
+1008 KAPPA
+1009 RHO
+1011 YOT
+1012 THETA
+1015 SHO
+1016 sho
+1018 SAN
+1019 san
+Latin Extended Additional: 1E00-1EFF
+7680 A
+7681 a
+7682 B
+7683 b
+7684 B
+7685 b
+7686 B
+7687 b
+7688 C
+7689 c
+7690 D
+7691 d
+7692 D
+7693 d
+7694 D
+7695 d
+7696 D
+7697 d
+7698 D
+7699 d
+7700 E
+7701 e
+7702 E
+7703 e
+7704 E
+7705 e
+7706 E
+7707 e
+7708 E
+7709 e
+7710 F
+7711 f
+7712 G
+7713 g
+7714 H
+7715 h
+7716 H
+7717 h
+7718 H
+7719 h
+7720 H
+7721 h
+7722 H
+7723 h
+7724 I
+7725 i
+7726 I
+7727 i
+7728 K
+7729 k
+7730 K
+7731 k
+7732 K
+7733 k
+7734 L
+7735 l
+7736 L
+7737 l
+7738 L
+7739 l
+7740 L
+7741 l
+7742 M
+7743 m
+7744 M
+7745 m
+7746 M
+7747 m
+7748 N
+7749 n
+7750 N
+7751 n
+7752 N
+7753 n
+7754 N
+7755 n
+7756 O
+7757 o
+7758 O
+7759 o
+7760 O
+7761 o
+7762 O
+7763 o
+7764 P
+7765 p
+7766 P
+7767 p
+7768 R
+7769 r
+7770 R
+7771 r
+7772 R
+7773 r
+7774 R
+7775 r
+7776 S
+7777 s
+7778 S
+7779 s
+7780 S
+7781 s
+7782 S
+7783 s
+7784 S
+7785 s
+7786 T
+7787 t
+7788 T
+7789 t
+7790 T
+7791 t
+7792 T
+7793 t
+7794 U
+7795 u
+7796 U
+7797 u
+7798 U
+7799 u
+7800 U
+7801 u
+7802 U
+7803 u
+7804 V
+7805 v
+7806 V
+7807 v
+7808 W
+7809 w
+7810 W
+7811 w
+7812 W
+7813 w
+7814 W
+7815 w
+7816 W
+7817 w
+7818 X
+7819 x
+7820 X
+7821 x
+7822 Y
+7823 y
+7824 Z
+7825 z
+7826 Z
+7827 z
+7828 Z
+7829 z
+7830 h
+7831 t
+7832 w
+7833 y
+7834 a
+7835 ss
+7836 ss
+7837 ss
+7838 SS
+7839 delta
+7840 A
+7841 a
+7842 A
+7843 a
+7844 A
+7845 a
+7846 A
+7847 a
+7848 A
+7849 a
+7850 A
+7851 a
+7852 A
+7853 a
+7854 A
+7855 a
+7856 A
+7857 a
+7858 A
+7859 a
+7860 A
+7861 a
+7862 A
+7863 a
+7864 E
+7865 e
+7866 E
+7867 e
+7868 E
+7869 e
+7870 E
+7871 e
+7872 E
+7873 e
+7874 E
+7875 e
+7876 E
+7877 e
+7878 E
+7879 e
+7880 I
+7881 i
+7882 I
+7883 i
+7884 O
+7885 o
+7886 O
+7887 o
+7888 O
+7889 o
+7890 O
+7891 o
+7892 O
+7893 o
+7894 O
+7895 o
+7896 O
+7897 o
+7898 O
+7899 o
+7900 O
+7901 o
+7902 O
+7903 o
+7904 O
+7905 o
+7906 O
+7907 o
+7908 U
+7909 u
+7910 U
+7911 u
+7912 U
+7913 u
+7914 U
+7915 u
+7916 U
+7917 u
+7918 U
+7919 u
+7920 U
+7921 u
+7922 Y
+7923 y
+7924 Y
+7925 y
+7926 Y
+7927 y
+7928 Y
+7929 y
+7930 LL
+7931 ll
+7932 V
+7933 v
+7934 Y
+7935 y
+General Punctuation: 2000-206F
+8192  
+8193  
+8194  
+8195  
+8196  
+8197  
+8198  
+8199  
+8200  
+8201  
+8202  
+8208 -
+8209 -
+8210 --
+8211 -
+8212 -
+8213 --
+8216 '
+8217 '
+8218 '
+8219 '
+8220 "
+8221 "
+8222 "
+8223 "
+8228 .
+8229 ..
+8230 ...
+8242 '
+8243 ''
+8244 '''
+8245 '
+8246 ''
+8247 '''
+8249 <
+8250 >
+8252 !!
+8259 -
+8260 /
+8261 [
+8262 ]
+8263 ??
+8264 ?!
+8265 !?
+8270 *
+8271 ;
+8274 -
+8275 --
+8278 ...
+8279 ''''
+8280 ....
+8281 .....
+8282 ..
+Superscripts and Subscripts: 2070-209C
+8304 0
+8305 i
+8308 4
+8309 5
+8310 6
+8311 7
+8312 8
+8313 9
+8314 +
+8315 -
+8316 =
+8317 (
+8318 )
+8319 n
+8320 0
+8321 1
+8322 2
+8323 3
+8324 4
+8325 5
+8326 6
+8327 7
+8328 8
+8329 9
+8330 +
+8331 -
+8332 =
+8333 (
+8334 )
+8336 a
+8337 e
+8338 o
+8339 x
+8340 e
+8341 h
+8342 k
+8343 l
+8344 m
+8345 n
+8346 p
+8347 s
+8348 t
+Latin Extended-C: 2C60-2C7F
+11360 L
+11361 l
+11362 L
+11363 P
+11364 R
+11365 a
+11366 t
+11367 H
+11368 h
+11369 K
+11370 k
+11371 Z
+11372 z
+11374 M
+11375 A
+11377 v
+11378 W
+11379 w
+11380 v
+11384 e
+11386 o
+11388 j
+11389 v
+11390 S
+11391 Z
+
+
+
+
+
+Highlight
+Basic Latin: 0020-007F
+45 –
+92 \
+94 ^
+123 {
+124 |
+125 }
+126 ~
+
