@@ -1,0 +1,366 @@
+{
+    "irrelevantGroups": ["Alphabetic Presentation Forms",
+        "Arabic",
+        "Arabic Extended-A",
+        "Arabic Extended-B",
+        "Arabic Presentation Forms-A",
+        "Arabic Presentation Forms-B",
+        "Arabic Supplement",
+        "Armenian",
+        "Arrows",
+        "Balinese",
+        "Bamum",
+        "Batak",
+        "Bengali",
+        "Block Elements",
+        "Bopomofo",
+        "Bopomofo Extended",
+        "Box Drawing",
+        "Braille Patterns",
+        "Buginese",
+        "Buhid",
+        "Cham",
+        "Cherokee",
+        "Cherokee Supplement",
+        "CJK Compatibility",
+        "CJK Compatibility Forms",
+        "CJK Compatibility Ideographs",
+        "CJK Radicals Supplement",
+        "CJK Strokes",
+        "CJK Symbols and Punctuation",
+        "CJK Unified Ideographs",
+        "CJK Unified Ideographs Extension A",
+        "Combining Diacritical Marks",
+        "Combining Diacritical Marks Extended",
+        "Combining Diacritical Marks for Symbols",
+        "Combining Diacritical Marks Supplement",
+        "Combining Half Marks",
+        "Common Indic Number Forms",
+        "Control Pictures",
+        "Coptic",
+        "Currency Symbols",
+        "Cyrillic",
+        "Cyrillic Extended-A",
+        "Cyrillic Extended-B",
+        "Cyrillic Extended-C",
+        "Cyrillic Supplement",
+        "Devanagari",
+        "Devanagari Extended",
+        "Dingbats",
+        "Enclosed Alphanumerics",
+        "Enclosed CJK Letters and Months",
+        "Ethiopic",
+        "Ethiopic Extended",
+        "Ethiopic Extended-A",
+        "Ethiopic Supplement",
+        "Geometric Shapes",
+        "Georgian",
+        "Georgian Extended",
+        "Georgian Supplement",
+        "Glagolitic",
+        "Greek Extended",
+        "Gujarati",
+        "Gurmukhi",
+        "Halfwidth and Fullwidth Forms",
+        "Hangul Compatibility Jamo",
+        "Hangul Jamo",
+        "Hangul Jamo Extended-A",
+        "Hangul Jamo Extended-B",
+        "Hangul Syllables",
+        "Hanunoo",
+        "Hebrew",
+        "Hiragana",
+        "Ideographic Description Characters",
+        "IPA Extensions",
+        "Javanese",
+        "Kanbun",
+        "Kangxi Radicals",
+        "Kannada",
+        "Katakana",
+        "Katakana Phonetic Extensions",
+        "Kayah Li",
+        "Khmer",
+        "Khmer Symbols",
+        "Lao",
+        "Latin Extended-D",
+        "Latin Extended-E",
+        "Latin-1 Supplement",
+        "Lepcha",
+        "Letterlike Symbols",
+        "Limbu",
+        "Lisu",
+        "Malayalam",
+        "Mandaic",
+        "Mathematical Operators",
+        "Meetei Mayek",
+        "Meetei Mayek Extensions",
+        "Miscellaneous Mathematical Symbols-A",
+        "Miscellaneous Mathematical Symbols-B",
+        "Miscellaneous Symbols",
+        "Miscellaneous Symbols and Arrows",
+        "Miscellaneous Technical",
+        "Modifier Tone Letters",
+        "Mongolian",
+        "Myanmar",
+        "Myanmar Extended-A",
+        "Myanmar Extended-B",
+        "New Tai Lue",
+        "NKo",
+        "Number Forms",
+        "Ogham",
+        "Ol Chiki",
+        "Optical Character Recognition",
+        "Oriya",
+        "Phags-pa",
+        "Phonetic Extensions",
+        "Phonetic Extensions Supplement",
+        "Rejang",
+        "Runic",
+        "Samaritan",
+        "Saurashtra",
+        "Sinhala",
+        "Small Form Variants",
+        "Spacing Modifier Letters",
+        "Specials",
+        "Sundanese",
+        "Sundanese Supplement",
+        "Supplemental Arrows-A",
+        "Supplemental Arrows-B",
+        "Supplemental Mathematical Operators",
+        "Supplemental Punctuation",
+        "Syloti Nagri",
+        "Syriac",
+        "Syriac Supplement",
+        "Tagalog",
+        "Tagbanwa",
+        "Tai Le",
+        "Tai Tham",
+        "Tai Viet",
+        "Tamil",
+        "Telugu",
+        "Thaana",
+        "Thai",
+        "Tibetan",
+        "Tifinagh",
+        "Unified Canadian Aboriginal Syllabics",
+        "Unified Canadian Aboriginal Syllabics Extended",
+        "Vai",
+        "Variation Selectors",
+        "Vedic Extensions",
+        "Vertical Forms",
+        "Yi Radicals",
+        "Yi Syllables",
+        "Yijing Hexagram Symbols"],
+    "keepGroups": [{
+            "name": "Basic Latin",
+            "indexes": [10, 13, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126]
+        }
+    ],
+    "swapGroups": [{
+            "name": "Latin-1 Supplement",
+            "swaps": [{
+                    "index": 178,
+                    "swap": "2"
+                }, {
+                    "index": 179,
+                    "swap": "3"
+                }, {
+                    "index": 188,
+                    "swap": "1/4"
+                }, {
+                    "index": 189,
+                    "swap": "1/2"
+                }, {
+                    "index": 190,
+                    "swap": "3/4"
+                }, {
+                    "index": 193,
+                    "swap": "A"
+                }, {
+                    "index": 194,
+                    "swap": "A"
+                }, {
+                    "index": 195,
+                    "swap": "A"
+                }, {
+                    "index": 196,
+                    "swap": "Ae"
+                }, {
+                    "index": 197,
+                    "swap": "A"
+                }, {
+                    "index": 198,
+                    "swap": "AE"
+                }, {
+                    "index": 199,
+                    "swap": "C"
+                }, {
+                    "index": 200,
+                    "swap": "E"
+                }, {
+                    "index": 201,
+                    "swap": "E"
+                }, {
+                    "index": 202,
+                    "swap": "E"
+                }, {
+                    "index": 203,
+                    "swap": "E"
+                }, {
+                    "index": 204,
+                    "swap": "I"
+                }, {
+                    "index": 205,
+                    "swap": "I"
+                }, {
+                    "index": 206,
+                    "swap": "I"
+                }, {
+                    "index": 207,
+                    "swap": "I"
+                }, {
+                    "index": 208,
+                    "swap": "D"
+                }, {
+                    "index": 209,
+                    "swap": "N"
+                }, {
+                    "index": 210,
+                    "swap": "O"
+                }, {
+                    "index": 211,
+                    "swap": "O"
+                }, {
+                    "index": 212,
+                    "swap": "O"
+                }, {
+                    "index": 213,
+                    "swap": "O"
+                }, {
+                    "index": 214,
+                    "swap": "Oe"
+                }, {
+                    "index": 215,
+                    "swap": "x"
+                }, {
+                    "index": 216,
+                    "swap": "O"
+                }, {
+                    "index": 217,
+                    "swap": "U"
+                }, {
+                    "index": 218,
+                    "swap": "U"
+                }, {
+                    "index": 219,
+                    "swap": "U"
+                }, {
+                    "index": 220,
+                    "swap": "Ue"
+                }, {
+                    "index": 222,
+                    "swap": "Th"
+                }, {
+                    "index": 223,
+                    "swap": "ss"
+                }, {
+                    "index": 224,
+                    "swap": "a"
+                }, {
+                    "index": 225,
+                    "swap": "a"
+                }, {
+                    "index": 226,
+                    "swap": "a"
+                }, {
+                    "index": 227,
+                    "swap": "a"
+                }, {
+                    "index": 228,
+                    "swap": "ae"
+                }, {
+                    "index": 229,
+                    "swap": "a"
+                }, {
+                    "index": 230,
+                    "swap": "ae"
+                }, {
+                    "index": 231,
+                    "swap": "c"
+                }, {
+                    "index": 232,
+                    "swap": "e"
+                }, {
+                    "index": 233,
+                    "swap": "e"
+                }, {
+                    "index": 234,
+                    "swap": "e"
+                }, {
+                    "index": 235,
+                    "swap": "e"
+                }, {
+                    "index": 236,
+                    "swap": "i"
+                }, {
+                    "index": 237,
+                    "swap": "i"
+                }, {
+                    "index": 238,
+                    "swap": "i"
+                }, {
+                    "index": 239,
+                    "swap": "i"
+                }, {
+                    "index": 240,
+                    "swap": "d"
+                }, {
+                    "index": 241,
+                    "swap": "n"
+                }, {
+                    "index": 242,
+                    "swap": "o"
+                }, {
+                    "index": 243,
+                    "swap": "o"
+                }, {
+                    "index": 244,
+                    "swap": "o"
+                }, {
+                    "index": 245,
+                    "swap": "o"
+                }, {
+                    "index": 246,
+                    "swap": "oe"
+                }, {
+                    "index": 247,
+                    "swap": "/"
+                }, {
+                    "index": 248,
+                    "swap": "o"
+                }, {
+                    "index": 249,
+                    "swap": "u"
+                }, {
+                    "index": 250,
+                    "swap": "u"
+                }, {
+                    "index": 251,
+                    "swap": "u"
+                }, {
+                    "index": 252,
+                    "swap": "ue"
+                }, {
+                    "index": 253,
+                    "swap": "y"
+                }, {
+                    "index": 254,
+                    "swap": "th"
+                }, {
+                    "index": 255,
+                    "swap": "y"
+                }
+            ]
+        }
+    ]
+}
