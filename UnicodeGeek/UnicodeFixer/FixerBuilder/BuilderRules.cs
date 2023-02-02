@@ -17,5 +17,5 @@ public class BuilderRules
     public List<KeepBuilder> KeepGroups { get; set; } = new List<KeepBuilder>();
 
     [JsonProperty(PropertyName = "swapGroups")]
-    public List<LetterSwapBuilder> SwapGroups { get; set; } = new List<LetterSwapBuilder>();
+    public List<SwapBuilder> SwapGroups { get; set; } = new List<SwapBuilder>();
 }

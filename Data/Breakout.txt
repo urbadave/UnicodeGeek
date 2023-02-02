@@ -74,7 +74,6 @@ Combining Diacritical Marks for Symbols: 20D0-20F0
 Letterlike Symbols: 2100-214F
 Number Forms: 2150-218B
 Arrows: 2190-21FF
-Mathematical Operators: 2200-22FF
 Miscellaneous Technical: 2300-23FF
 Control Pictures: 2400-2426
 Optical Character Recognition: 2440-244A
@@ -963,6 +962,11 @@ Superscripts and Subscripts: 2070-209C
 8346 p
 8347 s
 8348 t
+Mathematical Operators: 2200-22FF
+8773 approx.
+8774 approx.
+8776 approx.
+8778 approx.
 Latin Extended-C: 2C60-2C7F
 11360 L
 11361 l

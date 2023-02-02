@@ -10,6 +10,7 @@
   <ItemGroup>
     <ProjectReference Include="..\RelevantUnicode\RelevantUnicode.csproj" />
     <ProjectReference Include="..\UnicodeData\UnicodeData.csproj" />
+    <ProjectReference Include="..\UnicodeFixer\UnicodeFixer.csproj" />
   </ItemGroup>
 
 </Project>
