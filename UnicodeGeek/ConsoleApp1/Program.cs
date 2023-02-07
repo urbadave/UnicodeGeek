@@ -3,6 +3,7 @@ using Newtonsoft.Json;
 using RelevantUnicode;
 using System.Xml.Serialization;
 using UnicodeData;
+using UnicodeFixer;
 using UnicodeFixer.FixerBuilder;
 
 Console.WriteLine("XML Stuff");
@@ -36,6 +37,10 @@ using (StreamReader xmlReader = new StreamReader(fileName))
 
         GroupDTOs = GroupDTOs.Where(g => g.FirstCP != null && g.FirstCP.Length < 5).ToList();
         GroupDTOs.ForEach(g => g.FillName(BlockDTOs));
+
+        FixerMaster fm = new();
+        fm.LoadFixerMaster(builder, GroupDTOs);
+        var fixerJson = fm.ToJsonString();
 
         Console.WriteLine($"GroupDTOs has {GroupDTOs.Count} relevant groups");
 

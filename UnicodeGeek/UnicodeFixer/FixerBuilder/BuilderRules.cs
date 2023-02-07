@@ -1,7 +1,9 @@
 ﻿using Newtonsoft;
 using Newtonsoft.Json;
+using RelevantUnicode;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -18,4 +20,7 @@ public class BuilderRules
 
     [JsonProperty(PropertyName = "swapGroups")]
     public List<SwapBuilder> SwapGroups { get; set; } = new List<SwapBuilder>();
+
+    public BuilderRules() { }
+
 }
