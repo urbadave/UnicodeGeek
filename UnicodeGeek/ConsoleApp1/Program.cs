@@ -10,9 +10,10 @@ Console.WriteLine("XML Stuff");
 
 //"C:\Users\18275\source\repos\UnicodeGeek\Data\SerializeTest1.xml"
 
-//string fileName = @"C:\Users\18275\source\repos\UnicodeGeek\Data\ucd.all.grouped\ucd.all.grouped.xml";
-string fileName = @"C:\Users\urban\source\repos\UnicodeGeek\Data\ucd.all.grouped\ucd.all.grouped.xml";
+string fileName = @"C:\Users\18275\source\repos\UnicodeGeek\Data\ucd.all.grouped\ucd.all.grouped.xml";
+//string fileName = @"C:\Users\urban\source\repos\UnicodeGeek\Data\ucd.all.grouped\ucd.all.grouped.xml";
 string outFileName = @"C:\UnicodeGeek\CharacterDtos.txt";
+string groupDtoFile = @"C:\UnicodeGeek\GroupDtos.txt";
 string builderFile = @"C:\UnicodeGeek\RulesMaster.json";
 string fixerFile = @"C:\UnicodeGeek\FixerFile.json";
 //string fileName = @"C:\Users\urban\source\repos\UnicodeGeek\Data\ucd.all.grouped\ucd.all.grouped.xml";
@@ -65,6 +66,9 @@ using (StreamReader xmlReader = new StreamReader(fileName))
         }
         var fileText = string.Join("\n", fileLines);
         File.WriteAllText(outFileName, fileText);
+
+        var GroupListJson = JsonConvert.SerializeObject(GroupDTOs);
+        File.WriteAllText(groupDtoFile, GroupListJson);
     }
 }
 
