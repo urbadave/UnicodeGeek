@@ -10,10 +10,11 @@ Console.WriteLine("XML Stuff");
 
 //"C:\Users\18275\source\repos\UnicodeGeek\Data\SerializeTest1.xml"
 
-string fileName = @"C:\Users\18275\source\repos\UnicodeGeek\Data\ucd.all.grouped\ucd.all.grouped.xml";
+//string fileName = @"C:\Users\18275\source\repos\UnicodeGeek\Data\ucd.all.grouped\ucd.all.grouped.xml";
+string fileName = @"C:\Users\urban\source\repos\UnicodeGeek\Data\ucd.all.grouped\ucd.all.grouped.xml";
 string outFileName = @"C:\UnicodeGeek\CharacterDtos.txt";
 string builderFile = @"C:\UnicodeGeek\RulesMaster.json";
-//string fileName = @"C:\Users\urban\source\repos\UnicodeGeek\Data\ucd.all.grouped\ucd.all.grouped.xml";
+
 
 BuilderRules? builder = null;
 
