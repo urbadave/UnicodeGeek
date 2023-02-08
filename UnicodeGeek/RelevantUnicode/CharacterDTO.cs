@@ -15,6 +15,7 @@ public class CharacterDTO: IComparable<CharacterDTO>
     public string? Name { get; set; }
     public string? IntVal { get; set; }
     public string? Rep { get; set; }
+    public string? Swap { get; set; }
 
     public CharacterDTO()
     { }
@@ -26,6 +27,15 @@ public class CharacterDTO: IComparable<CharacterDTO>
             CP = source.Cp;
             Name = ExtractName(source);
             IntVal = ExtractIt(source);
+        }
+    }
+
+    public void UpdateSwap(string[] swapArray)
+    {
+        if(IntVal != null)
+        {
+            var index = int.Parse(IntVal);
+            Swap = swapArray[index];
         }
     }
 
@@ -72,7 +82,17 @@ public class CharacterDTO: IComparable<CharacterDTO>
             else
                 rep = Rep;
         }
-        return $"{intVal} {CP} {rep} {Name}";
+
+        var action = string.Empty;
+        if (Swap == null || Swap == string.Empty)
+        {
+            action = "Skip";
+        }
+        else
+        {
+            action = $"Add {Swap}";
+        }
+        return $"{intVal} {CP} {rep} {Name} {action}";
     }
 
     public int CompareTo(CharacterDTO? other)

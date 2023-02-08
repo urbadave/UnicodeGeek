@@ -13,6 +13,7 @@ Console.WriteLine("XML Stuff");
 string fileName = @"C:\Users\18275\source\repos\UnicodeGeek\Data\ucd.all.grouped\ucd.all.grouped.xml";
 string outFileName = @"C:\UnicodeGeek\CharacterDtos.txt";
 string builderFile = @"C:\UnicodeGeek\RulesMaster.json";
+string fixerFile = @"C:\UnicodeGeek\FixerFile.json";
 //string fileName = @"C:\Users\urban\source\repos\UnicodeGeek\Data\ucd.all.grouped\ucd.all.grouped.xml";
 
 BuilderRules? builder = null;
@@ -40,14 +41,22 @@ using (StreamReader xmlReader = new StreamReader(fileName))
 
         FixerMaster fm = new();
         fm.LoadFixerMaster(builder, GroupDTOs);
-        var fixerJson = fm.ToJsonString();
+        var swapArray = fm.FixerStrings;
+        var fixerJson = fm.ArrayToJsonString();
+        File.WriteAllText(fixerFile, fixerJson);
+
+        //now put the data from fixer array into GroupDTOs list
+        foreach(var g in GroupDTOs)
+        {
+            g.UpdateCharacters(swapArray);
+        }
 
         Console.WriteLine($"GroupDTOs has {GroupDTOs.Count} relevant groups");
 
         List<string> fileLines = new();
         foreach (var g in GroupDTOs)
         {
-            fileLines.Add($"{g.Name}: {g.FirstCP}-{g.LastCP}");
+            fileLines.Add($"{g.Name}: {g.FirstIndex}-{g.LastIndex}");
             foreach (var c in g.CharacterDTOs)
             {
                 fileLines.Add($"  {c}");

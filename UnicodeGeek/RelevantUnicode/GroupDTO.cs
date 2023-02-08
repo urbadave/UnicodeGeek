@@ -3,12 +3,14 @@ using UnicodeData;
 
 namespace RelevantUnicode;
 
-[DebuggerDisplay("{FirstCP}-{LastCP}: {Name}")]
+[DebuggerDisplay("{FirstIndex}-{LastIndex}: {Name}")]
 public class GroupDTO
 {
     public string? FirstCP { get; set; }
     public string? LastCP { get; set; }
     public string? Name { get; set; }
+    public int? FirstIndex { get; set; }
+    public int? LastIndex { get; set; }
 
     public List<CharacterDTO> CharacterDTOs { get; set; }
 
@@ -25,6 +27,8 @@ public class GroupDTO
             CharacterDTOs.Sort();
             FirstCP = CharacterDTOs.First()?.CP;
             LastCP = CharacterDTOs.Last()?.CP;
+            FirstIndex = GetIntFromCode(FirstCP);
+            LastIndex = GetIntFromCode(LastCP);
         }
     }
 
@@ -36,5 +40,22 @@ public class GroupDTO
             if(foundBlock != null)
                 Name = foundBlock.Name;
         }
+    }
+
+    public void UpdateCharacters(string[] swapArray)
+    {
+        foreach(var c in CharacterDTOs)
+        {
+            c.UpdateSwap(swapArray);
+        }
+    }
+
+    private int? GetIntFromCode(string? code)
+    {
+        if (string.IsNullOrWhiteSpace(code)) return null;
+
+        var hex = $"0x{code}";
+        var intVal = Convert.ToInt32(hex, 16);
+        return intVal;
     }
 }
