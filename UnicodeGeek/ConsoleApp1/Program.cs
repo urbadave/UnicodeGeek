@@ -19,6 +19,7 @@ string fixerFile = @"C:\UnicodeGeek\FixerFile.json";
 //string fileName = @"C:\Users\urban\source\repos\UnicodeGeek\Data\ucd.all.grouped\ucd.all.grouped.xml";
 
 BuilderRules? builder = null;
+var nothing = "nothing";
 
 using (StreamReader fileReader = new StreamReader(builderFile))
 {
