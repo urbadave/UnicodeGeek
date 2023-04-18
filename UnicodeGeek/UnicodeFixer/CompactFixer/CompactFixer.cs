@@ -51,7 +51,7 @@ namespace UnicodeFixer.CompactFixer
                     {
                         foreach(var i in group.Indexes)
                         {
-                            Actions.Add(new LetterAction(i, $"{char.ConvertFromUtf32(i)}"));
+                            Actions.Add(new LetterAction(i, CharNumToString(i)));
                         }
                     }
                 }
@@ -71,6 +71,11 @@ namespace UnicodeFixer.CompactFixer
                 }
             }
             Actions.Sort();
+        }
+
+        private string CharNumToString(int charNum)
+        {
+            return $"{char.ConvertFromUtf32(i)}";
         }
     }
 }
