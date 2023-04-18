@@ -73,7 +73,7 @@ namespace UnicodeFixer.CompactFixer
             Actions.Sort();
         }
 
-        private string CharNumToString(int charNum)
+        private string CharNumToString(int i)
         {
             return $"{char.ConvertFromUtf32(i)}";
         }
