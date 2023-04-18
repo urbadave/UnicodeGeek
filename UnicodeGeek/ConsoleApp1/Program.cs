@@ -4,6 +4,7 @@ using RelevantUnicode;
 using System.Xml.Serialization;
 using UnicodeData;
 using UnicodeFixer;
+using UnicodeFixer.CompactFixer;
 using UnicodeFixer.FixerBuilder;
 
 Console.WriteLine("XML Stuff");
@@ -12,7 +13,7 @@ Console.WriteLine("XML Stuff");
 
 string fileName = @"C:\Users\18275\source\repos\UnicodeGeek\Data\ucd.all.grouped\ucd.all.grouped.xml";
 //string fileName = @"C:\Users\urban\source\repos\UnicodeGeek\Data\ucd.all.grouped\ucd.all.grouped.xml";
-string outFileName = @"C:\UnicodeGeek\CharacterDtos.txt";
+string characterDtoName = @"C:\UnicodeGeek\CharacterDtos.txt";
 string groupDtoFile = @"C:\UnicodeGeek\GroupDtos.txt";
 string builderFile = @"C:\UnicodeGeek\RulesMaster.json";
 string fixerFile = @"C:\UnicodeGeek\FixerFile.json";
@@ -27,50 +28,56 @@ using (StreamReader fileReader = new StreamReader(builderFile))
     builder = JsonConvert.DeserializeObject<BuilderRules>(builderJson);
 }
 
-using (StreamReader xmlReader = new StreamReader(fileName))
-{
-    XmlSerializer xmlSerializer = new XmlSerializer(typeof(UcdObj));
+var compactFixer = new CompactFixer(builder);
+var count = compactFixer.Count;
+var fixerJson = compactFixer.ActionsJson;
+File.WriteAllText(fixerFile, fixerJson);
 
-    var ucdDatabase = (UcdObj)xmlSerializer.Deserialize(xmlReader);
-    if (ucdDatabase != null && ucdDatabase.Blocks != null)
-    {
-        Console.WriteLine($"Database has {ucdDatabase.Repertoire.Count} groups");
 
-        List<GroupDTO> GroupDTOs = new(ucdDatabase.Repertoire.Select(g => new GroupDTO(g)));
-        List<BlockDTO> BlockDTOs = new(ucdDatabase.Blocks.Select(b => new BlockDTO(b)));
+//using (StreamReader xmlReader = new StreamReader(fileName))
+//{
+//    XmlSerializer xmlSerializer = new XmlSerializer(typeof(UcdObj));
 
-        GroupDTOs = GroupDTOs.Where(g => g.FirstCP != null && g.FirstCP.Length < 5).ToList();
-        GroupDTOs.ForEach(g => g.FillName(BlockDTOs));
+//    var ucdDatabase = (UcdObj)xmlSerializer.Deserialize(xmlReader);
+//    if (ucdDatabase != null && ucdDatabase.Blocks != null)
+//    {
+//        Console.WriteLine($"Database has {ucdDatabase.Repertoire.Count} groups");
 
-        FixerMaster fm = new();
-        fm.LoadFixerMaster(builder, GroupDTOs);
-        var swapArray = fm.FixerStrings;
-        var fixerJson = fm.ArrayToJsonString();
-        File.WriteAllText(fixerFile, fixerJson);
+//        List<GroupDTO> GroupDTOs = new(ucdDatabase.Repertoire.Select(g => new GroupDTO(g)));
+//        List<BlockDTO> BlockDTOs = new(ucdDatabase.Blocks.Select(b => new BlockDTO(b)));
 
-        //now put the data from fixer array into GroupDTOs list
-        foreach(var g in GroupDTOs)
-        {
-            g.UpdateCharacters(swapArray);
-        }
+//        GroupDTOs = GroupDTOs.Where(g => g.FirstCP != null && g.FirstCP.Length < 5).ToList();
+//        GroupDTOs.ForEach(g => g.FillName(BlockDTOs));
 
-        Console.WriteLine($"GroupDTOs has {GroupDTOs.Count} relevant groups");
+//        FixerMaster fm = new();
+//        fm.LoadFixerMaster(builder, GroupDTOs);
+//        var swapArray = fm.FixerStrings;
+//        var fixerJson = fm.ArrayToJsonString();
+//        File.WriteAllText(fixerFile, fixerJson);
 
-        List<string> fileLines = new();
-        foreach (var g in GroupDTOs)
-        {
-            fileLines.Add($"{g.Name}: {g.FirstIndex}-{g.LastIndex}");
-            foreach (var c in g.CharacterDTOs)
-            {
-                fileLines.Add($"  {c}");
-            }
-        }
-        var fileText = string.Join("\n", fileLines);
-        File.WriteAllText(outFileName, fileText);
+//        //now put the data from fixer array into GroupDTOs list
+//        foreach(var g in GroupDTOs)
+//        {
+//            g.UpdateCharacters(swapArray);
+//        }
 
-        var GroupListJson = JsonConvert.SerializeObject(GroupDTOs);
-        File.WriteAllText(groupDtoFile, GroupListJson);
-    }
-}
+//        Console.WriteLine($"GroupDTOs has {GroupDTOs.Count} relevant groups");
+
+//        List<string> fileLines = new();
+//        foreach (var g in GroupDTOs)
+//        {
+//            fileLines.Add($"{g.Name}: {g.FirstIndex}-{g.LastIndex}");
+//            foreach (var c in g.CharacterDTOs)
+//            {
+//                fileLines.Add($"  {c}");
+//            }
+//        }
+//        var fileText = string.Join("\n", fileLines);
+//        File.WriteAllText(characterDtoName, fileText);
+
+//        var GroupListJson = JsonConvert.SerializeObject(GroupDTOs);
+//        File.WriteAllText(groupDtoFile, GroupListJson);
+//    }
+//}
 
 
